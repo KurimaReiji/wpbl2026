@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WPBL Teams Test - wpbl2026-teams.js</title>
+  <link rel="stylesheet" href="https://unpkg.com/mocha/mocha.css" />
+</head>
+<body>
+  <script type="importmap">
+  {
+    "imports": {
+      "fast-json-patch": "https://esm.sh/fast-json-patch"
+    }
+  }
+</script>
+  <div id="mocha"></div>
+
+  <script src="https://unpkg.com/mocha/mocha.js"></script>
+
+  <script type="module">
+    import { expect } from 'https://esm.sh/chai';
+    mocha.setup('bdd');
+
+    // wpbl2026-teams.js から必要な関数・データをインポート
+    import { Teams, findTeam, getTeams } from '../wpbl2026-teams.js';
+
+    describe('WPBL Team Profile Tests - wpbl2026-teams.js', () => {
+
+      it('should apply ops correctly', () => {
+        const bos = findTeam('BOS');
+        const la = findTeam('LA');
+        const ny = findTeam('New York');
+        const sf = findTeam('Firebells');
+
+        expect(bos.name).to.equal('Boston Hunters');
+        expect(bos.manager).to.equal('Jemile Weeks');
+        expect(la.teamName).to.equal('Queens');
+        expect(ny.teamName).to.equal('Heights');
+        expect(sf.franchiseName).to.equal('San Francisco');
+      });
+
+      it('should retain the previous manager for effective date 2026-08-01', () => {
+        const teamsAt0801 = getTeams('2026-08-01');
+        const bos = findTeam('BOS', teamsAt0801);
+
+        expect(bos.name).to.equal('Boston Hunters');
+        expect(bos.manager).to.equal('Keith Foulke');
+      });
+
+      it('should update to the new manager for effective date 2026-08-10', () => {
+        const teamsAt0810 = getTeams('2026-08-10');
+        const bos = findTeam('BOS', teamsAt0810);
+
+        expect(bos.manager).to.equal('Jemile Weeks');
+      });
+
+    });
+
+    mocha.run();
+  </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+  {
+    "team_id": "9f08or2mffx81409",
+    "code": "WPBL001",
+    "abbreviation": "BOS",
+    "name": "Boston Hunters",
+    "franchiseName": "Boston",
+    "teamName": "Hunters",
+    "manager": "Jemile Weeks"
+  },
+  {
+    "team_id": "v4gisr4rbgmn67b0",
+    "code": "WPBL002",
+    "abbreviation": "LA",
+    "name": "Los Angeles Queens",
+    "franchiseName": "Los Angeles",
+    "teamName": "Queens",
+    "manager": "Eric Young Sr."
+  },
+  {
+    "team_id": "fttth861nft1j2s7",
+    "code": "WPBL003",
+    "abbreviation": "NY",
+    "name": "New York Heights",
+    "franchiseName": "New York",
+    "teamName": "Heights",
+    "manager": "Rachelle \"Rocky\" Henley"
+  },
+  {
+    "team_id": "vhubhz8li07tmgq8",
+    "code": "WPBL004",
+    "abbreviation": "SF",
+    "name": "San Francisco Firebells",
+    "franchiseName": "San Francisco",
+    "teamName": "Firebells",
+    "manager": "Matt Williams"
+  }
+]
