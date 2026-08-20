@@ -286,32 +286,6 @@
     }
   },
   {
-    "id": 6352,
-    "title": "Los Angeles @ Boston",
-    "start": "2026-08-15T23:30:00Z",
-    "allDay": false,
-    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
-    "backgroundColor": "#00a32a",
-    "borderColor": "#00a32a",
-    "extendedProps": {
-      "status": "final",
-      "statusLabel": "Final",
-      "hasTeams": true,
-      "homeTeam": "Boston",
-      "awayTeam": "Los Angeles",
-      "homeLogo": "https://i0.wp.com/www.womensprobaseballleague.com/wp-content/uploads/2025/11/BOS-I-R.webp?fit=32%2C32&quality=80&ssl=1",
-      "awayLogo": "https://i0.wp.com/www.womensprobaseballleague.com/wp-content/uploads/2026/07/queens-logo-q.png?fit=32%2C32&quality=80&ssl=1",
-      "venue": "Robin Roberts Stadium",
-      "time": "6:30 pm",
-      "timeWithTimezone": "6:30 PM CDT",
-      "homeScore": 3,
-      "awayScore": 13,
-      "hasPromotion": true,
-      "promotionTheme": "Country Night",
-      "promotionGiveaway": ""
-    }
-  },
-  {
     "id": 6351,
     "title": "San Francisco @ New York",
     "start": "2026-08-15T18:00:00Z",
@@ -334,6 +308,32 @@
       "awayScore": 11,
       "hasPromotion": false,
       "promotionTheme": "",
+      "promotionGiveaway": ""
+    }
+  },
+  {
+    "id": 6352,
+    "title": "Los Angeles @ Boston",
+    "start": "2026-08-15T23:30:00Z",
+    "allDay": false,
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
+    "backgroundColor": "#00a32a",
+    "borderColor": "#00a32a",
+    "extendedProps": {
+      "status": "final",
+      "statusLabel": "Final",
+      "hasTeams": true,
+      "homeTeam": "Boston",
+      "awayTeam": "Los Angeles",
+      "homeLogo": "https://i0.wp.com/www.womensprobaseballleague.com/wp-content/uploads/2025/11/BOS-I-R.webp?fit=32%2C32&quality=80&ssl=1",
+      "awayLogo": "https://i0.wp.com/www.womensprobaseballleague.com/wp-content/uploads/2026/07/queens-logo-q.png?fit=32%2C32&quality=80&ssl=1",
+      "venue": "Robin Roberts Stadium",
+      "time": "6:30 pm",
+      "timeWithTimezone": "6:30 PM CDT",
+      "homeScore": 3,
+      "awayScore": 13,
+      "hasPromotion": true,
+      "promotionTheme": "Country Night",
       "promotionGiveaway": ""
     }
   },
@@ -395,11 +395,11 @@
     "start": "2026-08-20T23:30:00Z",
     "allDay": false,
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-boston-aug-20-2026/",
-    "backgroundColor": "#2271b1",
-    "borderColor": "#2271b1",
+    "backgroundColor": "#d63638",
+    "borderColor": "#d63638",
     "extendedProps": {
-      "status": "scheduled",
-      "statusLabel": "Scheduled",
+      "status": "in_progress",
+      "statusLabel": "In progress",
       "hasTeams": true,
       "homeTeam": "Boston",
       "awayTeam": "New York",
@@ -408,8 +408,8 @@
       "venue": "Robin Roberts Stadium",
       "time": "6:30 pm",
       "timeWithTimezone": "6:30 PM CDT",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "hasPromotion": false,
       "promotionTheme": "",
       "promotionGiveaway": ""

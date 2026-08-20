@@ -1,10 +1,9 @@
 import { join } from "node:path";
-import games from "./wpbl2026-current.json";
+import games from "../docs/wpbl2026-current.json";
 
 const jsonlFile = Bun.file(`${import.meta.dirname}/wpbl2026-patch-boxscores.jsonl`);
 
 const dateFormatter = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Chicago", });
-
 
 await main();
 

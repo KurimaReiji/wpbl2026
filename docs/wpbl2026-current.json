@@ -431,49 +431,9 @@
     }
   },
   "01a0079d-1b3c-700a-aca2-c7b300d5b78c": {
-    "id": 6352,
+    "id": 6351,
     "game_id": "kije6tnlnl71eocg",
     "uuid": "01a0079d-1b3c-700a-aca2-c7b300d5b78c",
-    "title": "Los Angeles @ Boston",
-    "season": "2026",
-    "scheduledDate": "2026-08-15T23:30:00Z",
-    "officialDate": "2026-08-15",
-    "venue": "Robin Roberts Stadium",
-    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
-    "seriesDescription": "Regular Season",
-    "status": "Final",
-    "teams": {
-      "away": {
-        "team": {
-          "id": "v4gisr4rbgmn67b0",
-          "name": "Los Angeles Queens",
-          "abbreviation": "LA",
-          "franchiseName": "Los Angeles",
-          "teamName": "Queens"
-        },
-        "score": 11
-      },
-      "home": {
-        "team": {
-          "id": "9f08or2mffx81409",
-          "name": "Boston Hunters",
-          "abbreviation": "BOS",
-          "franchiseName": "Boston",
-          "teamName": "Hunters"
-        },
-        "score": 6
-      }
-    },
-    "decisions": {
-      "winner": "Jill Albayati",
-      "loser": "Jaida Lee",
-      "save": "Niki Eckert"
-    }
-  },
-  "01a0079d-1b3c-700b-8f29-e259b9106a57": {
-    "id": 6351,
-    "game_id": "20f8lv4g5kfttfg1",
-    "uuid": "01a0079d-1b3c-700b-8f29-e259b9106a57",
     "title": "San Francisco @ New York",
     "season": "2026",
     "scheduledDate": "2026-08-15T18:00:00Z",
@@ -491,7 +451,7 @@
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
         },
-        "score": 13
+        "score": 11
       },
       "home": {
         "team": {
@@ -500,6 +460,46 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
+        },
+        "score": 6
+      }
+    },
+    "decisions": {
+      "winner": "Jill Albayati",
+      "loser": "Jaida Lee",
+      "save": "Niki Eckert"
+    }
+  },
+  "01a0079d-1b3c-700b-8f29-e259b9106a57": {
+    "id": 6352,
+    "game_id": "20f8lv4g5kfttfg1",
+    "uuid": "01a0079d-1b3c-700b-8f29-e259b9106a57",
+    "title": "Los Angeles @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-15T23:30:00Z",
+    "officialDate": "2026-08-15",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 13
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
         },
         "score": 3
       }

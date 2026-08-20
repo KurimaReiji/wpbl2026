@@ -1,4 +1,4 @@
-import games from "./Schedule/wpbl2026-current.json";
+import games from "./docs/wpbl2026-current.json";
 
 const rows = [];
 Object.values(games).forEach((g) => {

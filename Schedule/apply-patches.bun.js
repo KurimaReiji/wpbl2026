@@ -1,9 +1,10 @@
+import { join } from "node:path";
 import pkg from 'fast-json-patch';
 const { applyPatch } = pkg;
 
 import inputs from "./wpbl2026-start.json";
 
-const outfile = `${import.meta.dirname}/wpbl2026-current.json`;
+const outfile = join(import.meta.dirname, `../docs/wpbl2026-current.json`);
 
 const patchfiles = ['wpbl2026-patch-gameIds.jsonl', 'wpbl2026-patch-boxscores.jsonl']
   .map((fname) => `${import.meta.dirname}/${fname}`);

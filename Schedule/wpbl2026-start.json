@@ -363,42 +363,9 @@
     }
   },
   "01a0079d-1b3c-700a-aca2-c7b300d5b78c": {
-    "id": 6352,
-    "game_id": "",
-    "uuid": "01a0079d-1b3c-700a-aca2-c7b300d5b78c",
-    "title": "Los Angeles @ Boston",
-    "season": "2026",
-    "scheduledDate": "2026-08-15T23:30:00Z",
-    "officialDate": "2026-08-15",
-    "venue": "Robin Roberts Stadium",
-    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
-    "seriesDescription": "Regular Season",
-    "status": "Scheduled",
-    "teams": {
-      "away": {
-        "team": {
-          "id": "v4gisr4rbgmn67b0",
-          "name": "Los Angeles Queens",
-          "abbreviation": "LA",
-          "franchiseName": "Los Angeles",
-          "teamName": "Queens"
-        }
-      },
-      "home": {
-        "team": {
-          "id": "9f08or2mffx81409",
-          "name": "Boston Hunters",
-          "abbreviation": "BOS",
-          "franchiseName": "Boston",
-          "teamName": "Hunters"
-        }
-      }
-    }
-  },
-  "01a0079d-1b3c-700b-8f29-e259b9106a57": {
     "id": 6351,
     "game_id": "",
-    "uuid": "01a0079d-1b3c-700b-8f29-e259b9106a57",
+    "uuid": "01a0079d-1b3c-700a-aca2-c7b300d5b78c",
     "title": "San Francisco @ New York",
     "season": "2026",
     "scheduledDate": "2026-08-15T18:00:00Z",
@@ -424,6 +391,39 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-700b-8f29-e259b9106a57": {
+    "id": 6352,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-700b-8f29-e259b9106a57",
+    "title": "Los Angeles @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-15T23:30:00Z",
+    "officialDate": "2026-08-15",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
         }
       }
     }
