@@ -1,0 +1,1085 @@
+{
+  "01a0079d-1b2e-7000-a8d9-ae6f42616786": {
+    "id": 6340,
+    "game_id": "8alsgvzc90ypwphl",
+    "uuid": "01a0079d-1b2e-7000-a8d9-ae6f42616786",
+    "title": "Los Angeles @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-01T22:00:00Z",
+    "officialDate": "2026-08-01",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-new-york-aug-1-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 10
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 8
+      }
+    },
+    "decisions": {
+      "winner": "Meggie Meidlinger",
+      "loser": "Jacqui Reynolds"
+    }
+  },
+  "01a0079d-1b3c-7000-9c20-2a32335cadd3": {
+    "id": 6341,
+    "game_id": "qk2oug9ikob2a1hl",
+    "uuid": "01a0079d-1b3c-7000-9c20-2a32335cadd3",
+    "title": "San Francisco @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-02T23:30:00Z",
+    "officialDate": "2026-08-02",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-aug-2-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 11
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 3
+      }
+    },
+    "decisions": {
+      "winner": "Niki Eckert",
+      "loser": "Raine Padgham"
+    }
+  },
+  "01a0079d-1b3c-7001-aab4-1db927086d2e": {
+    "id": 6342,
+    "game_id": "v7zr9elz0xc5lqbw",
+    "uuid": "01a0079d-1b3c-7001-aab4-1db927086d2e",
+    "title": "Boston @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-05T23:30:00Z",
+    "officialDate": "2026-08-05",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-los-angeles-aug-5-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 4
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 12
+      }
+    },
+    "decisions": {
+      "winner": "Michelle Roche",
+      "loser": "Alli Schroder"
+    }
+  },
+  "01a0079d-1b3c-7002-893a-79c489825d29": {
+    "id": 6343,
+    "game_id": "tcvtrxvuqrl488nu",
+    "uuid": "01a0079d-1b3c-7002-893a-79c489825d29",
+    "title": "New York @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-06T23:30:00Z",
+    "officialDate": "2026-08-06",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-san-francisco-aug-6-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 13
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 8
+      }
+    },
+    "decisions": {
+      "winner": "Jaida Lee",
+      "loser": "Liz Gilder"
+    }
+  },
+  "01a0079d-1b3c-7003-baa4-6030e3f6f6e0": {
+    "id": 6344,
+    "game_id": "qik38y6p8336rqzc",
+    "uuid": "01a0079d-1b3c-7003-baa4-6030e3f6f6e0",
+    "title": "San Francisco @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-07T23:30:00Z",
+    "officialDate": "2026-08-07",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-los-angeles-aug-7-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 3
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 12
+      }
+    },
+    "decisions": {
+      "winner": "Ayami Sato",
+      "loser": "Kelsie Whitmore"
+    }
+  },
+  "01a0079d-1b3c-7004-ab27-c2e4b3606a72": {
+    "id": 6345,
+    "game_id": "dmgjo870o24ty4q8",
+    "uuid": "01a0079d-1b3c-7004-ab27-c2e4b3606a72",
+    "title": "Boston @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-08T18:00:00Z",
+    "officialDate": "2026-08-08",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-new-york-aug-8-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 9
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 6
+      }
+    },
+    "decisions": {
+      "winner": "Maïka Dumais",
+      "loser": "Keira Izumi"
+    }
+  },
+  "01a0079d-1b3c-7005-a543-1837593de3ca": {
+    "id": 6346,
+    "game_id": "8m8qyyfytlcngh7s",
+    "uuid": "01a0079d-1b3c-7005-a543-1837593de3ca",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-08T23:30:00Z",
+    "officialDate": "2026-08-08",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-san-francisco-aug-8-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 3
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 10
+      }
+    },
+    "decisions": {
+      "winner": "Jill Albayati",
+      "loser": "Michelle Roche",
+      "save": "Niki Eckert"
+    }
+  },
+  "01a0079d-1b3c-7006-a0c8-5607c4cb8751": {
+    "id": 6347,
+    "game_id": "uqnlzivjhyjg4cj9",
+    "uuid": "01a0079d-1b3c-7006-a0c8-5607c4cb8751",
+    "title": "New York @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-09T23:30:00Z",
+    "officialDate": "2026-08-09",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-boston-aug-9-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 7
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 6
+      }
+    },
+    "decisions": {
+      "winner": "Claire O'Sullivan",
+      "loser": "Kate Blunt"
+    }
+  },
+  "01a0079d-1b3c-7007-9188-f9f33e829b69": {
+    "id": 6348,
+    "game_id": "rr37bu1ieptkbzhp",
+    "uuid": "01a0079d-1b3c-7007-9188-f9f33e829b69",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-12T23:30:00Z",
+    "officialDate": "2026-08-12",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-san-francisco-aug-12-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 2
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 8
+      }
+    },
+    "decisions": {
+      "winner": "Liz Gilder",
+      "loser": "Ayami Sato"
+    }
+  },
+  "01a0079d-1b3c-7008-93fb-b7656acd4a9f": {
+    "id": 6349,
+    "game_id": "oxmfgfm084vlisfi",
+    "uuid": "01a0079d-1b3c-7008-93fb-b7656acd4a9f",
+    "title": "Boston @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-13T23:30:00Z",
+    "officialDate": "2026-08-13",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-new-york-aug-13-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 6
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 1
+      }
+    },
+    "decisions": {
+      "winner": "Olivia Bricker",
+      "loser": "Claire Eccles",
+      "save": "Gigi Schiano"
+    }
+  },
+  "01a0079d-1b3c-7009-a3e1-0868ff96af25": {
+    "id": 6350,
+    "game_id": "7sh6ncqvuaz87451",
+    "uuid": "01a0079d-1b3c-7009-a3e1-0868ff96af25",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-14T23:30:00Z",
+    "officialDate": "2026-08-14",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-san-francisco-aug-14-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 3
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 17
+      }
+    },
+    "decisions": {
+      "winner": "Kelsie Whitmore",
+      "loser": "Suzu Naraski"
+    }
+  },
+  "01a0079d-1b3c-700a-aca2-c7b300d5b78c": {
+    "id": 6352,
+    "game_id": "kije6tnlnl71eocg",
+    "uuid": "01a0079d-1b3c-700a-aca2-c7b300d5b78c",
+    "title": "Los Angeles @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-15T23:30:00Z",
+    "officialDate": "2026-08-15",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-15-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        },
+        "score": 11
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 6
+      }
+    },
+    "decisions": {
+      "winner": "Jill Albayati",
+      "loser": "Jaida Lee",
+      "save": "Niki Eckert"
+    }
+  },
+  "01a0079d-1b3c-700b-8f29-e259b9106a57": {
+    "id": 6351,
+    "game_id": "20f8lv4g5kfttfg1",
+    "uuid": "01a0079d-1b3c-700b-8f29-e259b9106a57",
+    "title": "San Francisco @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-15T18:00:00Z",
+    "officialDate": "2026-08-15",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-aug-15-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 13
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 3
+      }
+    },
+    "decisions": {
+      "winner": "Michelle Roche",
+      "loser": "Raine Padgham"
+    }
+  },
+  "01a0079d-1b3c-700c-83d7-31b95b87d05f": {
+    "id": 6353,
+    "game_id": "ppkwakaltuvio20t",
+    "uuid": "01a0079d-1b3c-700c-83d7-31b95b87d05f",
+    "title": "Boston @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-16T23:30:00Z",
+    "officialDate": "2026-08-16",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-new-york-aug-16-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        },
+        "score": 9
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 7
+      }
+    },
+    "decisions": {
+      "winner": "Gigi Schiano",
+      "loser": "Alyssa Zettlemoyer"
+    }
+  },
+  "01a0079d-1b3c-700d-a09e-1b625178f9a1": {
+    "id": 6354,
+    "game_id": "193phvm8rl9cf53w",
+    "uuid": "01a0079d-1b3c-700d-a09e-1b625178f9a1",
+    "title": "New York @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-19T23:30:00Z",
+    "officialDate": "2026-08-19",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-san-francisco-aug-19-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Final",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        },
+        "score": 11
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        },
+        "score": 8
+      }
+    },
+    "decisions": {
+      "winner": "Claire O'Sullivan",
+      "loser": "Ela Day-Bédard"
+    }
+  },
+  "01a0079d-1b3c-700e-b8b1-b5ba4dc7057f": {
+    "id": 6355,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-700e-b8b1-b5ba4dc7057f",
+    "title": "New York @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-20T23:30:00Z",
+    "officialDate": "2026-08-20",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-boston-aug-20-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-700f-b539-ff8603e162f5": {
+    "id": 6356,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-700f-b539-ff8603e162f5",
+    "title": "San Francisco @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-21T23:30:00Z",
+    "officialDate": "2026-08-21",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-los-angeles-aug-21-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7010-85bf-c9e3391e107a": {
+    "id": 6357,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7010-85bf-c9e3391e107a",
+    "title": "San Francisco @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-22T18:00:00Z",
+    "officialDate": "2026-08-22",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-aug-22-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7011-8ff5-6e7b98aab713": {
+    "id": 6358,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7011-8ff5-6e7b98aab713",
+    "title": "New York @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-22T23:30:00Z",
+    "officialDate": "2026-08-22",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-22-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7012-a0cc-e1189bd58247": {
+    "id": 6359,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7012-a0cc-e1189bd58247",
+    "title": "Los Angeles @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-08-23T23:30:00Z",
+    "officialDate": "2026-08-23",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-23-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7013-90e3-84fe7eece072": {
+    "id": 6360,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7013-90e3-84fe7eece072",
+    "title": "Boston @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-26T23:30:00Z",
+    "officialDate": "2026-08-26",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-los-angeles-aug-26-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7014-94e9-f9557748fed0": {
+    "id": 6361,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7014-94e9-f9557748fed0",
+    "title": "Los Angeles @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-08-27T23:30:00Z",
+    "officialDate": "2026-08-27",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-new-york-aug-27-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7015-b568-1796c89c6bcd": {
+    "id": 6362,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7015-b568-1796c89c6bcd",
+    "title": "Boston @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-28T23:30:00Z",
+    "officialDate": "2026-08-28",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-aug-28-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7016-aec2-33233519646d": {
+    "id": 6363,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7016-aec2-33233519646d",
+    "title": "New York @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-08-29T23:30:00Z",
+    "officialDate": "2026-08-29",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-29-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7017-8a0b-5ce834798cfe": {
+    "id": 6364,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7017-8a0b-5ce834798cfe",
+    "title": "New York @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-08-30T23:30:00Z",
+    "officialDate": "2026-08-30",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-san-francisco-aug-30-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7018-a2ae-ed3119c59b39": {
+    "id": 6365,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7018-a2ae-ed3119c59b39",
+    "title": "San Francisco @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-09-02T23:30:00Z",
+    "officialDate": "2026-09-02",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-sep-2-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-7019-a8fb-cd2f9c564a7e": {
+    "id": 6366,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-7019-a8fb-cd2f9c564a7e",
+    "title": "New York @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-09-03T23:30:00Z",
+    "officialDate": "2026-09-03",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-701a-96ee-90229b7ca18c": {
+    "id": 6367,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-701a-96ee-90229b7ca18c",
+    "title": "San Francisco @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-09-04T23:30:00Z",
+    "officialDate": "2026-09-04",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-701b-85d7-1d7244761484": {
+    "id": 6368,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-701b-85d7-1d7244761484",
+    "title": "Los Angeles @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-09-05T23:30:00Z",
+    "officialDate": "2026-09-05",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0079d-1b3c-701c-9f92-48190d26fa98": {
+    "id": 6369,
+    "game_id": "",
+    "uuid": "01a0079d-1b3c-701c-9f92-48190d26fa98",
+    "title": "Boston @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-09-06T23:30:00Z",
+    "officialDate": "2026-09-06",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/",
+    "seriesDescription": "Regular Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  }
+}

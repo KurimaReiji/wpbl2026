@@ -1,0 +1,93 @@
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/status","value":"Final"}
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/teams/away/score","value":10}
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/teams/home/score","value":8}
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/decisions","value":{}}
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/decisions/winner","value":"Meggie Meidlinger"}
+{"effectiveDate":"2026-08-01","op":"add","path":"/01a0079d-1b2e-7000-a8d9-ae6f42616786/decisions/loser","value":"Jacqui Reynolds"}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/status","value":"Final"}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/teams/away/score","value":11}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/teams/home/score","value":3}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/decisions","value":{}}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/decisions/winner","value":"Niki Eckert"}
+{"effectiveDate":"2026-08-02","op":"add","path":"/01a0079d-1b3c-7000-9c20-2a32335cadd3/decisions/loser","value":"Raine Padgham"}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/status","value":"Final"}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/teams/away/score","value":4}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/teams/home/score","value":12}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/decisions","value":{}}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/decisions/winner","value":"Michelle Roche"}
+{"effectiveDate":"2026-08-05","op":"add","path":"/01a0079d-1b3c-7001-aab4-1db927086d2e/decisions/loser","value":"Alli Schroder"}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/status","value":"Final"}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/teams/away/score","value":13}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/teams/home/score","value":8}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/decisions","value":{}}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/decisions/winner","value":"Jaida Lee"}
+{"effectiveDate":"2026-08-06","op":"add","path":"/01a0079d-1b3c-7002-893a-79c489825d29/decisions/loser","value":"Liz Gilder"}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/status","value":"Final"}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/teams/away/score","value":3}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/teams/home/score","value":12}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/decisions","value":{}}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/decisions/winner","value":"Ayami Sato"}
+{"effectiveDate":"2026-08-07","op":"add","path":"/01a0079d-1b3c-7003-baa4-6030e3f6f6e0/decisions/loser","value":"Kelsie Whitmore"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/status","value":"Final"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/teams/away/score","value":9}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/teams/home/score","value":6}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/decisions","value":{}}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/decisions/winner","value":"Maïka Dumais"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7004-ab27-c2e4b3606a72/decisions/loser","value":"Keira Izumi"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/status","value":"Final"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/teams/away/score","value":3}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/teams/home/score","value":10}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/decisions","value":{}}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/decisions/winner","value":"Jill Albayati"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/decisions/loser","value":"Michelle Roche"}
+{"effectiveDate":"2026-08-08","op":"add","path":"/01a0079d-1b3c-7005-a543-1837593de3ca/decisions/save","value":"Niki Eckert"}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/status","value":"Final"}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/teams/away/score","value":7}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/teams/home/score","value":6}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/decisions","value":{}}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/decisions/winner","value":"Claire O'Sullivan"}
+{"effectiveDate":"2026-08-09","op":"add","path":"/01a0079d-1b3c-7006-a0c8-5607c4cb8751/decisions/loser","value":"Kate Blunt"}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/status","value":"Final"}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/teams/away/score","value":2}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/teams/home/score","value":8}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/decisions","value":{}}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/decisions/winner","value":"Liz Gilder"}
+{"effectiveDate":"2026-08-12","op":"add","path":"/01a0079d-1b3c-7007-9188-f9f33e829b69/decisions/loser","value":"Ayami Sato"}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/status","value":"Final"}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/teams/away/score","value":6}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/teams/home/score","value":1}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/decisions","value":{}}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/decisions/winner","value":"Olivia Bricker"}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/decisions/loser","value":"Claire Eccles"}
+{"effectiveDate":"2026-08-13","op":"add","path":"/01a0079d-1b3c-7008-93fb-b7656acd4a9f/decisions/save","value":"Gigi Schiano"}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/status","value":"Final"}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/teams/away/score","value":3}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/teams/home/score","value":17}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/decisions","value":{}}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/decisions/winner","value":"Kelsie Whitmore"}
+{"effectiveDate":"2026-08-14","op":"add","path":"/01a0079d-1b3c-7009-a3e1-0868ff96af25/decisions/loser","value":"Suzu Naraski"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/status","value":"Final"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/teams/away/score","value":11}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/teams/home/score","value":6}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/decisions","value":{}}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/decisions/winner","value":"Jill Albayati"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/decisions/loser","value":"Jaida Lee"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700a-aca2-c7b300d5b78c/decisions/save","value":"Niki Eckert"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/status","value":"Final"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/teams/away/score","value":13}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/teams/home/score","value":3}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/decisions","value":{}}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/decisions/winner","value":"Michelle Roche"}
+{"effectiveDate":"2026-08-15","op":"add","path":"/01a0079d-1b3c-700b-8f29-e259b9106a57/decisions/loser","value":"Raine Padgham"}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/status","value":"Final"}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/teams/away/score","value":9}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/teams/home/score","value":7}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/decisions","value":{}}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/decisions/winner","value":"Gigi Schiano"}
+{"effectiveDate":"2026-08-16","op":"add","path":"/01a0079d-1b3c-700c-83d7-31b95b87d05f/decisions/loser","value":"Alyssa Zettlemoyer"}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/status","value":"Final"}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/teams/away/score","value":11}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/teams/home/score","value":8}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/decisions","value":{}}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/decisions/winner","value":"Claire O'Sullivan"}
+{"effectiveDate":"2026-08-19","op":"add","path":"/01a0079d-1b3c-700d-a09e-1b625178f9a1/decisions/loser","value":"Ela Day-Bédard"}
