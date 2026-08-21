@@ -589,7 +589,7 @@
   },
   "01a0079d-1b3c-700e-b8b1-b5ba4dc7057f": {
     "id": 6355,
-    "game_id": "",
+    "game_id": "dtksss0az7dpa97f",
     "uuid": "01a0079d-1b3c-700e-b8b1-b5ba4dc7057f",
     "title": "New York @ Boston",
     "season": "2026",
@@ -598,7 +598,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-boston-aug-20-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -607,7 +607,8 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
-        }
+        },
+        "score": 9
       },
       "home": {
         "team": {
@@ -616,8 +617,13 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
-        }
+        },
+        "score": 4
       }
+    },
+    "decisions": {
+      "winner": "Jaida Lee",
+      "loser": "Alli Schroder"
     }
   },
   "01a0079d-1b3c-700f-b539-ff8603e162f5": {

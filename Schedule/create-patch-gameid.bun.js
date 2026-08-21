@@ -1,4 +1,4 @@
-import games from "./wpbl2026-start.json";
+import games from "../docs/wpbl2026-current.json";
 
 const jsonlFile = Bun.file(`${import.meta.dirname}/wpbl2026-patch-gameIds.jsonl`);
 

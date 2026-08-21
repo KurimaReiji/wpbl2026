@@ -28,5 +28,6 @@ const title = `WPBL 2026 Regular Season (${completed} of 30 games)`;
 console.log([
   `${' '.repeat(.5 * (cols - title.length))}${title}`,
   '='.repeat(cols),
-  ...rows
+  ...rows,
+  '-'.repeat(cols),
 ].join("\n").replace(/Naraski ?/g, 'Narasaki'));
