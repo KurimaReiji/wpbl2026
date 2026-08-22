@@ -628,7 +628,7 @@
   },
   "01a0079d-1b3c-700f-b539-ff8603e162f5": {
     "id": 6356,
-    "game_id": "",
+    "game_id": "awbrugq1q63c3uph",
     "uuid": "01a0079d-1b3c-700f-b539-ff8603e162f5",
     "title": "San Francisco @ Los Angeles",
     "season": "2026",
@@ -637,7 +637,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-los-angeles-aug-21-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -646,7 +646,8 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 6
       },
       "home": {
         "team": {
@@ -655,8 +656,14 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 8
       }
+    },
+    "decisions": {
+      "winner": "Jamie Mackay",
+      "loser": "Peyton Coria",
+      "save": "Meggie Meidlinger"
     }
   },
   "01a0079d-1b3c-7010-85bf-c9e3391e107a": {

@@ -1,14 +1,14 @@
 import { join } from "node:path";
 import games from "../docs/wpbl2026-current.json";
 
-const jsonlFile = Bun.file(`${import.meta.dirname}/wpbl2026-patch-boxscores.jsonl`);
+const jsonlFilePath = `${import.meta.dirname}/wpbl2026-patch-boxscores.jsonl`;
 
 const dateFormatter = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Chicago", });
 
 await main();
 
 async function main() {
-  const writer = jsonlFile.writer();
+  const writer = Bun.file(jsonlFilePath).writer();
 
   for (const g of Object.values(games)) {
     const { game_id, teams: gTeams } = g;
@@ -40,8 +40,8 @@ async function main() {
       });
 
     const decisions = {
-      winner: pitchers.filter(({ pitching }) => pitching.win).at(0).name,
-      loser: pitchers.filter(({ pitching }) => pitching.loss).at(0).name,
+      winner: pitchers.filter(({ pitching }) => pitching.win).at(0)?.name,
+      loser: pitchers.filter(({ pitching }) => pitching.loss).at(0)?.name,
       save: pitchers.filter(({ pitching }) => pitching.save).at(0)?.name,
     }
 
@@ -71,7 +71,8 @@ async function main() {
     })
   };
 
-  writer.end();
+  await writer.flush();
+  await writer.end();
 }
 
 async function getBoxscore(game_id) {
@@ -85,8 +86,10 @@ async function getBoxscore(game_id) {
     console.warn(`fetching: ${game_id}`);
     const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
     const res = await (await fetch(url)).json();
-    const output = JSON.stringify(res);
-    Bun.write(boxfile, output);
+    if (res.boxscore.status.complete) {
+      const output = JSON.stringify(res);
+      Bun.write(boxfile, output);
+    }
     return res;
   }
 
