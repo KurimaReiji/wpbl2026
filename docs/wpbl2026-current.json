@@ -668,7 +668,7 @@
   },
   "01a0079d-1b3c-7010-85bf-c9e3391e107a": {
     "id": 6357,
-    "game_id": "",
+    "game_id": "swof9w8fb4z5n6yz",
     "uuid": "01a0079d-1b3c-7010-85bf-c9e3391e107a",
     "title": "San Francisco @ Boston",
     "season": "2026",
@@ -677,7 +677,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-aug-22-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -686,7 +686,8 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 12
       },
       "home": {
         "team": {
@@ -695,13 +696,18 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
-        }
+        },
+        "score": 5
       }
+    },
+    "decisions": {
+      "winner": "Liz Gilder",
+      "loser": "Paloma Benach"
     }
   },
   "01a0079d-1b3c-7011-8ff5-6e7b98aab713": {
     "id": 6358,
-    "game_id": "",
+    "game_id": "n89hf3ji823n4p07",
     "uuid": "01a0079d-1b3c-7011-8ff5-6e7b98aab713",
     "title": "New York @ Los Angeles",
     "season": "2026",
@@ -710,7 +716,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-22-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -719,7 +725,8 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
-        }
+        },
+        "score": 8
       },
       "home": {
         "team": {
@@ -728,8 +735,13 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 7
       }
+    },
+    "decisions": {
+      "winner": "Jaida Lee",
+      "loser": "Meggie Meidlinger"
     }
   },
   "01a0079d-1b3c-7012-a0cc-e1189bd58247": {
