@@ -95,8 +95,9 @@ const rows = abbrs
   })
 
 //const output = JSON.stringify(data, null, 2);
+const completed = Object.values(games).filter(({status})=>status==="Final");
 const cols = rows[0][0].length;
-const title = `WPBL 2026 Head-to-head`;
+const title = `WPBL 2026 Head-to-head (${completed.length}/30)`;
 const output = [
   `${' '.repeat(.5 * (cols - title.length))}${title}`,
   "=".repeat(cols),

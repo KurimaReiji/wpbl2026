@@ -746,7 +746,7 @@
   },
   "01a0079d-1b3c-7012-a0cc-e1189bd58247": {
     "id": 6359,
-    "game_id": "",
+    "game_id": "19k396na7ad9r561",
     "uuid": "01a0079d-1b3c-7012-a0cc-e1189bd58247",
     "title": "Los Angeles @ Boston",
     "season": "2026",
@@ -755,7 +755,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-23-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -764,7 +764,8 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 3
       },
       "home": {
         "team": {
@@ -773,8 +774,13 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
-        }
+        },
+        "score": 7
       }
+    },
+    "decisions": {
+      "winner": "Kate Blunt",
+      "loser": "Ayuri Shimano"
     }
   },
   "01a0079d-1b3c-7013-90e3-84fe7eece072": {

@@ -116,3 +116,9 @@
 {"effectiveDate":"2026-08-22","op":"add","path":"/01a0079d-1b3c-7011-8ff5-6e7b98aab713/decisions","value":{}}
 {"effectiveDate":"2026-08-22","op":"add","path":"/01a0079d-1b3c-7011-8ff5-6e7b98aab713/decisions/winner","value":"Jaida Lee"}
 {"effectiveDate":"2026-08-22","op":"add","path":"/01a0079d-1b3c-7011-8ff5-6e7b98aab713/decisions/loser","value":"Meggie Meidlinger"}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/status","value":"Final"}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/teams/away/score","value":3}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/teams/home/score","value":7}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/decisions","value":{}}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/decisions/winner","value":"Kate Blunt"}
+{"effectiveDate":"2026-08-23","op":"add","path":"/01a0079d-1b3c-7012-a0cc-e1189bd58247/decisions/loser","value":"Ayuri Shimano"}
