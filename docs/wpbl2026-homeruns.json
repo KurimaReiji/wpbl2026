@@ -1,0 +1,1797 @@
+{
+  "updated": "2026-08-23",
+  "homeruns": [
+    {
+      "date": "2026-08-01",
+      "game_id": "8alsgvzc90ypwphl",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Maggie Foxx",
+        "short_name": "Maggie Foxx",
+        "uniform": "11",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 4,
+        "home": 7
+      },
+      "narrative": "Denae Benites homered to center field, RBI (2-2 KBFB)."
+    },
+    {
+      "date": "2026-08-05",
+      "game_id": "v7zr9elz0xc5lqbw",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Sarah Edwards",
+        "short_name": "Sarah Edwards",
+        "uniform": "25",
+        "bats": "B",
+        "throws": "L",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Alli Schroder",
+        "short_name": "Alli Schroder",
+        "uniform": "16",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1,
+        2,
+        3
+      ],
+      "RoB": "123",
+      "whereHit": "RF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Sarah Edwards homered to right field, 4 RBI (3-1 BBBK); Maggie Foxx scored; Ashton Lansdell scored; Mo'ne Davis scored."
+    },
+    {
+      "date": "2026-08-06",
+      "game_id": "tcvtrxvuqrl488nu",
+      "inning": 6,
+      "halfInning": "top",
+      "batter": {
+        "name": "Keira Izumi",
+        "short_name": "Keira Izumi",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ela Day-Bédard",
+        "short_name": "Ela Day-Bédard",
+        "uniform": "25",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 9,
+        "home": 3
+      },
+      "narrative": "Keira Izumi homered to left field, RBI (0-2 KK)."
+    },
+    {
+      "date": "2026-08-06",
+      "game_id": "tcvtrxvuqrl488nu",
+      "inning": 6,
+      "halfInning": "top",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ela Day-Bédard",
+        "short_name": "Ela Day-Bédard",
+        "uniform": "25",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "CF",
+      "runs": {
+        "away": 10,
+        "home": 3
+      },
+      "narrative": "Denae Benites homered to center field, 3 RBI (1-0 B); Natsuki Yonetani scored; Val Perez scored."
+    },
+    {
+      "date": "2026-08-07",
+      "game_id": "qik38y6p8336rqzc",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 1,
+        "home": 5
+      },
+      "narrative": "Jamie Mackay homered to left field, 2 RBI (1-1 BK); Sarah Edwards scored."
+    },
+    {
+      "date": "2026-08-07",
+      "game_id": "qik38y6p8336rqzc",
+      "inning": 6,
+      "halfInning": "top",
+      "batter": {
+        "name": "Amanda Gianelloni",
+        "short_name": "Amanda Gianelloni",
+        "uniform": "5",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Brittany Apgar",
+        "short_name": "Brittany Apgar",
+        "uniform": "0",
+        "bats": "R",
+        "throws": "L",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 1,
+        "home": 9
+      },
+      "narrative": "Amanda Gianelloni homered down the lf line, RBI (1-1 KB)."
+    },
+    {
+      "date": "2026-08-07",
+      "game_id": "qik38y6p8336rqzc",
+      "inning": 6,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Tháima Maximiliana",
+        "short_name": "Tháima Maximiliana",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Rosi del Castillo",
+        "short_name": "Rosi del Castillo",
+        "uniform": "57",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        3
+      ],
+      "RoB": "--3",
+      "whereHit": "CF",
+      "runs": {
+        "away": 3,
+        "home": 10
+      },
+      "narrative": "Tháima Maximiliana homered to center field, 2 RBI (3-2 BSKBBF); Michelle Roche scored."
+    },
+    {
+      "date": "2026-08-08",
+      "game_id": "dmgjo870o24ty4q8",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Raine Padgham",
+        "short_name": "Raine Padgham",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Denae Benites homered to left field, RBI (3-2 BKFFFBB)."
+    },
+    {
+      "date": "2026-08-08",
+      "game_id": "dmgjo870o24ty4q8",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Raine Padgham",
+        "short_name": "Raine Padgham",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        3
+      ],
+      "RoB": "--3",
+      "whereHit": "LF",
+      "runs": {
+        "away": 0,
+        "home": 2
+      },
+      "narrative": "Denae Benites homered to left field, 2 RBI (2-2 BKSFB); Natsuki Yonetani scored."
+    },
+    {
+      "date": "2026-08-08",
+      "game_id": "8m8qyyfytlcngh7s",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Jill Albayati",
+        "short_name": "Jill Albayati",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 0,
+        "home": 2
+      },
+      "narrative": "Jamie Mackay homered to left field, unearned, 2 RBI (1-1 FB); Sarah Edwards scored, unearned."
+    },
+    {
+      "date": "2026-08-09",
+      "game_id": "uqnlzivjhyjg4cj9",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Gigi Schiano",
+        "short_name": "Gigi Schiano",
+        "uniform": "31",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "CF",
+      "runs": {
+        "away": 1,
+        "home": 1
+      },
+      "narrative": "Denae Benites homered to center field, 2 RBI (1-0 B); Val Perez scored."
+    },
+    {
+      "date": "2026-08-12",
+      "game_id": "rr37bu1ieptkbzhp",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Ayami Sato",
+        "short_name": "Ayami Sato",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 1
+      },
+      "narrative": "Kelsie Whitmore homered down the lf line, 2 RBI (0-2 FF); Jua Park scored."
+    },
+    {
+      "date": "2026-08-12",
+      "game_id": "rr37bu1ieptkbzhp",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Ayami Sato",
+        "short_name": "Ayami Sato",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "RC",
+      "runs": {
+        "away": 2,
+        "home": 4
+      },
+      "narrative": "Kelsie Whitmore homered to right center, 3 RBI (1-0 B); Jua Park scored; Jordan Eyster scored."
+    },
+    {
+      "date": "2026-08-12",
+      "game_id": "rr37bu1ieptkbzhp",
+      "inning": 6,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Meggie Meidlinger",
+        "short_name": "Meggie Meidlinger",
+        "uniform": "13",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 7
+      },
+      "narrative": "Kelsie Whitmore homered to left field, RBI (0-0)."
+    },
+    {
+      "date": "2026-08-14",
+      "game_id": "7sh6ncqvuaz87451",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 0,
+        "home": 8
+      },
+      "narrative": "Kelsie Whitmore homered to left field, 2 RBI (0-0); Amanda Gianelloni scored."
+    },
+    {
+      "date": "2026-08-14",
+      "game_id": "7sh6ncqvuaz87451",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2,
+        3
+      ],
+      "RoB": "123",
+      "whereHit": "CF",
+      "runs": {
+        "away": 2,
+        "home": 11
+      },
+      "narrative": "Kelsie Whitmore homered to center field, 4 RBI (1-1 KB); Amanda Gianelloni scored; Jua Park scored; Jordan Eyster scored."
+    },
+    {
+      "date": "2026-08-14",
+      "game_id": "7sh6ncqvuaz87451",
+      "inning": 5,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Alexia Jorge",
+        "short_name": "Alexia Jorge",
+        "uniform": "26",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 15
+      },
+      "narrative": "Alexia Jorge homered to left field, RBI (1-2 FFBF)."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "kije6tnlnl71eocg",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Jill Albayati",
+        "short_name": "Jill Albayati",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Jaida Lee",
+        "short_name": "Jaida Lee",
+        "uniform": "7",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 1,
+        "home": 1
+      },
+      "narrative": "Jill Albayati homered to left field, 2 RBI (1-2 BKKF); Kelsie Whitmore scored."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "kije6tnlnl71eocg",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Jill Albayati",
+        "short_name": "Jill Albayati",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "RC",
+      "runs": {
+        "away": 6,
+        "home": 1
+      },
+      "narrative": "Denae Benites homered to right center, 2 RBI (0-1 K); Jacqui Reynolds scored."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "kije6tnlnl71eocg",
+      "inning": 5,
+      "halfInning": "top",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Claire O'Sullivan",
+        "short_name": "Claire O'Sullivan",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "LF",
+      "runs": {
+        "away": 6,
+        "home": 3
+      },
+      "narrative": "Kelsie Whitmore homered to left field, 3 RBI (0-2 FK); Amanda Gianelloni scored; Samantha Gutierrez scored."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "kije6tnlnl71eocg",
+      "inning": 7,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Claire O'Sullivan",
+        "short_name": "Claire O'Sullivan",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Niki Eckert",
+        "short_name": "Niki Eckert",
+        "uniform": "22",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 11,
+        "home": 5
+      },
+      "narrative": "Claire O'Sullivan homered to left field, RBI (2-2 FBFBF)."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "20f8lv4g5kfttfg1",
+      "inning": 2,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ticara Geldenhuis",
+        "short_name": "Ticara Geldenhuis",
+        "uniform": "13",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Michelle Roche",
+        "short_name": "Michelle Roche",
+        "uniform": "27",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 0
+      },
+      "narrative": "Ticara Geldenhuis homered to left field, RBI (0-2 KF)."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "20f8lv4g5kfttfg1",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Paloma Benach",
+        "short_name": "Paloma Benach",
+        "uniform": "12",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "RC",
+      "runs": {
+        "away": 2,
+        "home": 1
+      },
+      "narrative": "Jamie Mackay homered to right center, RBI (2-1 KBB)."
+    },
+    {
+      "date": "2026-08-15",
+      "game_id": "20f8lv4g5kfttfg1",
+      "inning": 5,
+      "halfInning": "top",
+      "batter": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Raine Padgham",
+        "short_name": "Raine Padgham",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        3
+      ],
+      "RoB": "--3",
+      "whereHit": "LF",
+      "runs": {
+        "away": 5,
+        "home": 3
+      },
+      "narrative": "Jamie Mackay homered down the lf line, 2 RBI (3-2 BFBFB); Maggie Foxx scored."
+    },
+    {
+      "date": "2026-08-16",
+      "game_id": "ppkwakaltuvio20t",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Gigi Schiano",
+        "short_name": "Gigi Schiano",
+        "uniform": "31",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 4,
+        "home": 4
+      },
+      "narrative": "Denae Benites homered to center field, RBI (2-0 BB)."
+    },
+    {
+      "date": "2026-08-19",
+      "game_id": "193phvm8rl9cf53w",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Keira Izumi",
+        "short_name": "Keira Izumi",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "CF",
+      "runs": {
+        "away": 5,
+        "home": 0
+      },
+      "narrative": "Kelsie Whitmore homered to center field, 2 RBI (1-0 B); Amanda Gianelloni scored."
+    },
+    {
+      "date": "2026-08-19",
+      "game_id": "193phvm8rl9cf53w",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Skylar Kaplan",
+        "short_name": "Skylar Kaplan",
+        "uniform": "21",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Keira Izumi",
+        "short_name": "Keira Izumi",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1,
+        3
+      ],
+      "RoB": "1-3",
+      "whereHit": "RF",
+      "runs": {
+        "away": 5,
+        "home": 2
+      },
+      "narrative": "Skylar Kaplan homered to right field, 3 RBI (3-2 BBBKS); Alexia Jorge scored; Jill Albayati scored."
+    },
+    {
+      "date": "2026-08-19",
+      "game_id": "193phvm8rl9cf53w",
+      "inning": 5,
+      "halfInning": "top",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ela Day-Bédard",
+        "short_name": "Ela Day-Bédard",
+        "uniform": "25",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        3
+      ],
+      "RoB": "1-3",
+      "whereHit": "RC",
+      "runs": {
+        "away": 7,
+        "home": 8
+      },
+      "narrative": "Denae Benites homered to right center, 3 RBI (0-1 K); Natsuki Yonetani scored; Claire Eccles scored."
+    },
+    {
+      "date": "2026-08-21",
+      "game_id": "awbrugq1q63c3uph",
+      "inning": 2,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Caitlin Eynon",
+        "short_name": "Caitlin Eynon",
+        "uniform": "29",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "RF",
+      "runs": {
+        "away": 3,
+        "home": 0
+      },
+      "narrative": "Caitlin Eynon homered to right field, 2 RBI (0-0); Ayuri Shimano scored."
+    },
+    {
+      "date": "2026-08-21",
+      "game_id": "awbrugq1q63c3uph",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Alexia Jorge",
+        "short_name": "Alexia Jorge",
+        "uniform": "26",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Michelle Roche",
+        "short_name": "Michelle Roche",
+        "uniform": "27",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LC",
+      "runs": {
+        "away": 3,
+        "home": 2
+      },
+      "narrative": "Alexia Jorge homered to left center, RBI (3-2 BBFBK)."
+    },
+    {
+      "date": "2026-08-21",
+      "game_id": "awbrugq1q63c3uph",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ashton Lansdell",
+        "short_name": "Ashton Lansdell",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 4,
+        "home": 2
+      },
+      "narrative": "Ashton Lansdell homered to center field, RBI (0-1 K)."
+    },
+    {
+      "date": "2026-08-22",
+      "game_id": "swof9w8fb4z5n6yz",
+      "inning": 1,
+      "halfInning": "top",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Paloma Benach",
+        "short_name": "Paloma Benach",
+        "uniform": "12",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "RF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Kelsie Whitmore homered to right field, RBI (2-1 BBF)."
+    },
+    {
+      "date": "2026-08-22",
+      "game_id": "swof9w8fb4z5n6yz",
+      "inning": 2,
+      "halfInning": "top",
+      "batter": {
+        "name": "Samantha Gutierrez",
+        "short_name": "Samantha Gutierrez",
+        "uniform": "33",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Paloma Benach",
+        "short_name": "Paloma Benach",
+        "uniform": "12",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "RF",
+      "runs": {
+        "away": 2,
+        "home": 2
+      },
+      "narrative": "Samantha Gutierrez homered to right field, RBI (1-2 BSF)."
+    },
+    {
+      "date": "2026-08-22",
+      "game_id": "n89hf3ji823n4p07",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ashton Lansdell",
+        "short_name": "Ashton Lansdell",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Rakyung Kim",
+        "short_name": "Rakyung Kim",
+        "uniform": "29",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        2,
+        3
+      ],
+      "RoB": "-23",
+      "whereHit": "CF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Ashton Lansdell homered to center field, 3 RBI (0-0); Caitlin Eynon scored; Isabella Villareal scored."
+    },
+    {
+      "date": "2026-08-22",
+      "game_id": "n89hf3ji823n4p07",
+      "inning": 5,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ashton Lansdell",
+        "short_name": "Ashton Lansdell",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Jacqui Reynolds",
+        "short_name": "Jacqui Reynolds",
+        "uniform": "31",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        2
+      ],
+      "RoB": "-2-",
+      "whereHit": "LC",
+      "runs": {
+        "away": 4,
+        "home": 4
+      },
+      "narrative": "Ashton Lansdell homered to left center, 2 RBI (3-2 BBBKF); Caitlin Eynon scored."
+    },
+    {
+      "date": "2026-08-23",
+      "game_id": "19k396na7ad9r561",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Jamie Mackay",
+        "short_name": "Jamie Mackay",
+        "uniform": "20",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Kate Blunt",
+        "short_name": "Kate Blunt",
+        "uniform": "4",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "LF",
+      "runs": {
+        "away": 1,
+        "home": 2
+      },
+      "narrative": "Jamie Mackay homered to left field, RBI (1-0 B)."
+    },
+    {
+      "date": "2026-08-23",
+      "game_id": "19k396na7ad9r561",
+      "inning": 5,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ticara Geldenhuis",
+        "short_name": "Ticara Geldenhuis",
+        "uniform": "13",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Ayuri Shimano",
+        "short_name": "Ayuri Shimano",
+        "uniform": "19",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        3
+      ],
+      "RoB": "--3",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 2
+      },
+      "narrative": "Ticara Geldenhuis homered to left field, 2 RBI (1-2 KKB); Molly Paddison scored, unearned."
+    },
+    {
+      "date": "2026-08-23",
+      "game_id": "19k396na7ad9r561",
+      "inning": 5,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Lexi Hastings",
+        "short_name": "Lexi Hastings",
+        "uniform": "14",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Ayuri Shimano",
+        "short_name": "Ayuri Shimano",
+        "uniform": "19",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 2,
+        "home": 4
+      },
+      "narrative": "Lexi Hastings homered to left field, 2 RBI (0-1 F); Raine Padgham scored, unearned."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Denae Benites",
+      "number": 8
+    },
+    {
+      "name": "Kelsie Whitmore",
+      "number": 8
+    },
+    {
+      "name": "Jamie Mackay",
+      "number": 5
+    },
+    {
+      "name": "Ashton Lansdell",
+      "number": 3
+    },
+    {
+      "name": "Alexia Jorge",
+      "number": 2
+    },
+    {
+      "name": "Ticara Geldenhuis",
+      "number": 2
+    }
+  ]
+}
