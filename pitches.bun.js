@@ -1,6 +1,7 @@
 import { join } from "node:path";
 import games from "./docs/wpbl2026-current.json";
 import { findTeam } from "./docs/js/wpbl2026-teams.js";
+import { getBoxscore } from "./utils.bun.js";
 
 await main();
 
@@ -60,39 +61,19 @@ async function main() {
       const d = datesList
         .map((date) => {
           const p = pitched.find((p) => p.date === date);
-          return ` ${p ? String(p.pitches).padStart(3) : "   "}`;
+          return `${p ? String(p.pitches).padStart(3) : "   "}`;
         })
         .join("");
       return `${teamCode.padStart(3)} ${jerseyNumber.padStart(2)} ${name.padEnd(20)} ${pitchHand}HP ${d}`;
     });
 
-  const cols = 4 + 3 + 21 + 4 + datesList.length * 4;
+  const cols = 4 + 3 + 21 + 4 + datesList.length * 3;
   const title = `WPBL 2026 Pitchers Pitched by Date`;
   console.log([
     `${" ".repeat(cols * 0.5 - title.length * 0.5)}${title}`,
     "=".repeat(cols),
-    `${" ".padEnd(3 + 3 + 1 + 20 + 4 + 3)}${datesList.map((date) => date.slice(-2)).join("  ")}`,
+    `${" ".padEnd(3 + 3 + 1 + 20 + 4 + 2)}${datesList.map((date) => date.slice(-2)).join(" ")}`,
     "-".repeat(cols),
     data.join("\n"),
-  ].join("\n").replace(/Naraski /g, "Narasaki"))
+  ].join("\n").replace(/Naraski /g, "Narasaki").replace(/Maggie Fox /g, "Maggie Foxx"))
 }
-
-
-
-async function getBoxscore(game_id) {
-  const boxfile = join(import.meta.dirname, `./Boxscores/${game_id}-boxscore.json`);
-  const file = Bun.file(boxfile);
-
-  try {
-    const json = await file.json();
-    return json;
-  } catch (error) {
-    console.warn(`fetching: ${game_id}`);
-    const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
-    const res = await (await fetch(url)).json();
-    const output = JSON.stringify(res);
-    Bun.write(boxfile, output);
-    return res;
-  }
-}
-
