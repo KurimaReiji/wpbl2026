@@ -39,8 +39,8 @@
         expect(sf.franchiseName).to.equal('San Francisco');
       });
 
-      it('should retain the previous manager for effective date 2026-08-01', () => {
-        const teamsAt0801 = getTeams('2026-08-01');
+      it('should retain the previous manager for effective date 2026-08-09', () => {
+        const teamsAt0801 = getTeams('2026-08-09');
         const bos = findTeam('BOS', teamsAt0801);
 
         expect(bos.name).to.equal('Boston Hunters');
