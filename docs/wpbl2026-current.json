@@ -785,7 +785,7 @@
   },
   "01a0079d-1b3c-7013-90e3-84fe7eece072": {
     "id": 6360,
-    "game_id": "",
+    "game_id": "v4tqgh11vbo55wl3",
     "uuid": "01a0079d-1b3c-7013-90e3-84fe7eece072",
     "title": "Boston @ Los Angeles",
     "season": "2026",
@@ -794,7 +794,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/boston-vs-los-angeles-aug-26-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -803,7 +803,8 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
-        }
+        },
+        "score": 6
       },
       "home": {
         "team": {
@@ -812,8 +813,14 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 8
       }
+    },
+    "decisions": {
+      "winner": "Isabella Villareal",
+      "loser": "Olivia Bricker",
+      "save": "Meggie Meidlinger"
     }
   },
   "01a0079d-1b3c-7014-94e9-f9557748fed0": {
