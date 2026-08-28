@@ -14,7 +14,7 @@ async function main() {
     const { game_id, teams: gTeams } = g;
     if (game_id === "") continue;
     const { boxscore } = await getBoxscore(game_id);
-    const { teams, } = boxscore;
+    const { teams, status } = boxscore;
     const [away, home] = teams;
     const pitchers = teams.map((t) => t.players).flat().filter((p) => p.pitching);
     if (away.name !== gTeams.away.team.name || home.name !== gTeams.home.team.name) {
@@ -27,7 +27,7 @@ async function main() {
       effectiveDate,
       "op": "add",
       "path": `/${g.uuid}/status`,
-      "value": "Final",
+      "value": status.complete ? "Final" : "In Progress",
     };
     const scorePatch = ["away", "home"]
       .map((side, i) => {

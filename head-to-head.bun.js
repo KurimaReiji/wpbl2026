@@ -16,63 +16,81 @@ const data = Teams
   }, {});
 
 Object.values(games)
-  .filter(({ status }) => status === "Final")
+  //.filter(({ status }) => status === "Final")
   .forEach((g) => {
     const { away, home } = g.teams;
-    if (away.score > home.score) {
-      abbrs.forEach((abbr) => {
-        if (away.team.abbreviation === abbr) {
-          data[abbr].streak.push("W");
-          abbrs.forEach((a) => {
-            if (a === home.team.abbreviation) {
-              data[abbr][a].push("W");
-            } else {
+    if (g.status === "Final") {
+      if (away.score > home.score) {
+        abbrs.forEach((abbr) => {
+          if (away.team.abbreviation === abbr) {
+            data[abbr].streak.push("W");
+            abbrs.forEach((a) => {
+              if (a === home.team.abbreviation) {
+                data[abbr][a].push("W");
+              } else {
+                data[abbr][a].push(".");
+              }
+            });
+          } else if (home.team.abbreviation === abbr) {
+            data[abbr].streak.push("L");
+            abbrs.forEach((a) => {
+              if (a === away.team.abbreviation) {
+                data[abbr][a].push("L");
+              } else {
+                data[abbr][a].push(".");
+              }
+            });
+          } else {
+            data[abbr].streak.push(".");
+            abbrs.forEach((a) => {
               data[abbr][a].push(".");
-            }
-          });
-        } else if (home.team.abbreviation === abbr) {
-          data[abbr].streak.push("L");
-          abbrs.forEach((a) => {
-            if (a === away.team.abbreviation) {
-              data[abbr][a].push("L");
-            } else {
+            });
+          }
+        });
+      } else {
+        abbrs.forEach((abbr) => {
+          if (away.team.abbreviation === abbr) {
+            data[abbr].streak.push("L");
+            abbrs.forEach((a) => {
+              if (a === home.team.abbreviation) {
+                data[abbr][a].push("L");
+              } else {
+                data[abbr][a].push(".");
+              }
+            });
+          } else if (home.team.abbreviation === abbr) {
+            data[abbr].streak.push("W");
+            abbrs.forEach((a) => {
+              if (a === away.team.abbreviation) {
+                data[abbr][a].push("W");
+              } else {
+                data[abbr][a].push(".");
+              }
+            });
+          } else {
+            data[abbr].streak.push(".");
+            abbrs.forEach((a) => {
               data[abbr][a].push(".");
-            }
-          });
-        } else {
-          data[abbr].streak.push(".");
-          abbrs.forEach((a) => {
-            data[abbr][a].push(".");
-          });
-        }
-      });
+            });
+          }
+        });
+      }
     } else {
       abbrs.forEach((abbr) => {
-        if (away.team.abbreviation === abbr) {
-          data[abbr].streak.push("L");
-          abbrs.forEach((a) => {
-            if (a === home.team.abbreviation) {
-              data[abbr][a].push("L");
-            } else {
-              data[abbr][a].push(".");
-            }
-          });
-        } else if (home.team.abbreviation === abbr) {
-          data[abbr].streak.push("W");
-          abbrs.forEach((a) => {
-            if (a === away.team.abbreviation) {
-              data[abbr][a].push("W");
-            } else {
-              data[abbr][a].push(".");
-            }
-          });
+        if ([away.team.abbreviation, home.team.abbreviation].includes(abbr)) {
+          data[abbr].streak.push("+");
         } else {
           data[abbr].streak.push(".");
-          abbrs.forEach((a) => {
-            data[abbr][a].push(".");
-          });
         }
+        abbrs.forEach((a) => {
+          if (away.team.abbreviation === abbr && home.team.abbreviation === a || away.team.abbreviation === a && home.team.abbreviation === abbr) {
+            data[abbr][a].push("+");
+          } else {
+            data[abbr][a].push(".");
+          }
+        })
       });
+
     }
   });
 
@@ -95,9 +113,9 @@ const rows = abbrs
   })
 
 //const output = JSON.stringify(data, null, 2);
-const completed = Object.values(games).filter(({status})=>status==="Final");
+const completed = Object.values(games).filter(({ status }) => status === "Final");
 const cols = rows[0][0].length;
-const title = `WPBL 2026 Head-to-head (${completed.length}/30)`;
+const title = `WPBL 2026 Head-to-head (${completed.length} of 30 games)`;
 const output = [
   `${' '.repeat(.5 * (cols - title.length))}${title}`,
   "=".repeat(cols),

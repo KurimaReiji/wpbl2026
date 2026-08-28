@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-27",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -1766,6 +1766,98 @@
         "home": 4
       },
       "narrative": "Lexi Hastings homered to left field, 2 RBI (0-1 F); Raine Padgham scored, unearned."
+    },
+    {
+      "date": "2026-08-27",
+      "game_id": "zpp9h33tj77csmoq",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Natsuki Yonetani",
+        "short_name": "Natsuki Yonetani",
+        "uniform": "15",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ayami Sato",
+        "short_name": "Ayami Sato",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 1,
+        "home": 0
+      },
+      "narrative": "Natsuki Yonetani homered to center field, RBI (1-1 BF)."
+    },
+    {
+      "date": "2026-08-27",
+      "game_id": "zpp9h33tj77csmoq",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kylee Lahners",
+        "short_name": "Kylee Lahners",
+        "uniform": "22",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ayami Sato",
+        "short_name": "Ayami Sato",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LC",
+      "runs": {
+        "away": 1,
+        "home": 1
+      },
+      "narrative": "Kylee Lahners homered to left center, 2 RBI (0-2 KF); London Studer scored."
     }
   ],
   "leaders": [
