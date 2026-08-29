@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -1858,15 +1858,60 @@
         "home": 1
       },
       "narrative": "Kylee Lahners homered to left center, 2 RBI (0-2 KF); London Studer scored."
+    },
+    {
+      "date": "2026-08-28",
+      "game_id": "aqe6d881m2xt0khm",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Alli Schroder",
+        "short_name": "Alli Schroder",
+        "uniform": "16",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Kelsie Whitmore homered to center field, RBI (0-1 K)."
     }
   ],
   "leaders": [
     {
-      "name": "Denae Benites",
-      "number": 8
+      "name": "Kelsie Whitmore",
+      "number": 9
     },
     {
-      "name": "Kelsie Whitmore",
+      "name": "Denae Benites",
       "number": 8
     },
     {

@@ -135,3 +135,9 @@
 {"effectiveDate":"2026-08-27","op":"add","path":"/01a0079d-1b3c-7014-94e9-f9557748fed0/decisions","value":{}}
 {"effectiveDate":"2026-08-27","op":"add","path":"/01a0079d-1b3c-7014-94e9-f9557748fed0/decisions/winner","value":"Claire O'Sullivan"}
 {"effectiveDate":"2026-08-27","op":"add","path":"/01a0079d-1b3c-7014-94e9-f9557748fed0/decisions/loser","value":"Ayami Sato"}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/status","value":"Final"}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/teams/away/score","value":6}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/teams/home/score","value":14}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions","value":{}}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions/winner","value":"Kelsie Whitmore"}
+{"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions/loser","value":"Alli Schroder"}

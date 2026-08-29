@@ -864,7 +864,7 @@
   },
   "01a0079d-1b3c-7015-b568-1796c89c6bcd": {
     "id": 6362,
-    "game_id": "",
+    "game_id": "aqe6d881m2xt0khm",
     "uuid": "01a0079d-1b3c-7015-b568-1796c89c6bcd",
     "title": "Boston @ San Francisco",
     "season": "2026",
@@ -873,7 +873,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-aug-28-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -882,7 +882,8 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
-        }
+        },
+        "score": 6
       },
       "home": {
         "team": {
@@ -891,8 +892,13 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 14
       }
+    },
+    "decisions": {
+      "winner": "Kelsie Whitmore",
+      "loser": "Alli Schroder"
     }
   },
   "01a0079d-1b3c-7016-aec2-33233519646d": {

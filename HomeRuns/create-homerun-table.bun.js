@@ -1,5 +1,3 @@
-import games from "../docs/wpbl2026-current.json";
-import { findTeam } from "../docs/js/wpbl2026-teams.js";
 import inputs from "../docs/wpbl2026-homeruns.json";
 
 await main();
