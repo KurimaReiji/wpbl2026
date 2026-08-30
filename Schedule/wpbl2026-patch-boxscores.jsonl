@@ -141,3 +141,9 @@
 {"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions","value":{}}
 {"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions/winner","value":"Kelsie Whitmore"}
 {"effectiveDate":"2026-08-28","op":"add","path":"/01a0079d-1b3c-7015-b568-1796c89c6bcd/decisions/loser","value":"Alli Schroder"}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/status","value":"Final"}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/teams/away/score","value":6}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/teams/home/score","value":10}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions","value":{}}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions/winner","value":"Ayuri Shimano"}
+{"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions/loser","value":"London Studer"}

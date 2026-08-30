@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -1903,6 +1903,54 @@
         "home": 0
       },
       "narrative": "Kelsie Whitmore homered to center field, RBI (0-1 K)."
+    },
+    {
+      "date": "2026-08-29",
+      "game_id": "mksw641s8uwrx6vp",
+      "inning": 2,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Ashton Lansdell",
+        "short_name": "Ashton Lansdell",
+        "uniform": "1",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "pitcher": {
+        "name": "Emi Saiki",
+        "short_name": "Emi Saiki",
+        "uniform": "23",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "CF",
+      "runs": {
+        "away": 3,
+        "home": 2
+      },
+      "narrative": "Ashton Lansdell homered to center field, 3 RBI (1-0 B); Ayuri Shimano scored; Samaria Benitez scored."
     }
   ],
   "leaders": [
@@ -1920,7 +1968,7 @@
     },
     {
       "name": "Ashton Lansdell",
-      "number": 3
+      "number": 4
     },
     {
       "name": "Alexia Jorge",

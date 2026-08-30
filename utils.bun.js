@@ -1,12 +1,17 @@
 import { join } from "node:path";
+import pkg from 'fast-json-patch';
+const { applyPatch } = pkg;
 
 async function getBoxscore(game_id) {
   const boxfile = join(import.meta.dirname, `./Boxscores/${game_id}-boxscore.json`);
+  const patchfilename = join(import.meta.dirname, `./Boxscores/${game_id}-boxscore-patch.json`);
   const file = Bun.file(boxfile);
+  const patchfile = Bun.file(patchfilename);
 
+  let result;
   try {
     const json = await file.json();
-    return json;
+    result = json;
   } catch (error) {
     console.warn(`fetching: ${game_id}`);
     const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
@@ -15,8 +20,18 @@ async function getBoxscore(game_id) {
       const output = JSON.stringify(res);
       Bun.write(boxfile, output);
     }
-    return res;
+    result = res;
   }
+  // applyPatch
+
+  try {
+    const patches = (await patchfile.exists()) ? await patchfile.json() : [];
+    result = applyPatch(result, patches, { mutateDocument: false }).newDocument;
+  } catch (err) {
+    console.error(err);
+    throw new Error("E");
+  }
+  return result;
 }
 
 export {

@@ -2,9 +2,11 @@ import games from "../docs/wpbl2026-current.json";
 import { findTeam } from "../docs/js/wpbl2026-teams.js";
 import { getBoxscore } from "../utils.bun.js";
 
+
 await main();
 
 async function main() {
+  const outfile = '../docs/wpbl2026-homeruns.json';
   const players = {};
   const homeruns = [];
   let updated;
@@ -81,7 +83,8 @@ async function main() {
     })
     ;
   const output = JSON.stringify({ updated, homeruns: data, leaders }, null, 2);
-  console.log(output);
+  Bun.write(outfile, output);
+  console.warn(outfile);
 }
 
 function getRoB(bases_occupied) {

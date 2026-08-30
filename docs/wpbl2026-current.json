@@ -903,7 +903,7 @@
   },
   "01a0079d-1b3c-7016-aec2-33233519646d": {
     "id": 6363,
-    "game_id": "",
+    "game_id": "mksw641s8uwrx6vp",
     "uuid": "01a0079d-1b3c-7016-aec2-33233519646d",
     "title": "New York @ Los Angeles",
     "season": "2026",
@@ -912,7 +912,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-29-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -921,7 +921,8 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
-        }
+        },
+        "score": 6
       },
       "home": {
         "team": {
@@ -930,8 +931,13 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 10
       }
+    },
+    "decisions": {
+      "winner": "Ayuri Shimano",
+      "loser": "London Studer"
     }
   },
   "01a0079d-1b3c-7017-8a0b-5ce834798cfe": {

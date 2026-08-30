@@ -1,0 +1,14 @@
+[
+  {
+    "effectiveDate": "2026-08-29",
+    "op": "test",
+    "path": "/boxscore/plays/9/narrative",
+    "value": "Caitlin Eynon doubled down the lf line, 2 RBI (0-2 KFF); Sarah Edwards advanced to third; Jamie Mackay scored; Samaria Benitez Samaria Benitez."
+  },
+  {
+    "effectiveDate": "2026-08-29",
+    "op": "replace",
+    "path": "/boxscore/plays/9/narrative",
+    "value": "Caitlin Eynon doubled down the lf line, 2 RBI (0-2 KFF); Sarah Edwards advanced to third; Jamie Mackay scored; Samaria Benitez scored."
+  }
+]
