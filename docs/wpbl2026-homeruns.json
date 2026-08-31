@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -1951,16 +1951,114 @@
         "home": 2
       },
       "narrative": "Ashton Lansdell homered to center field, 3 RBI (1-0 B); Ayuri Shimano scored; Samaria Benitez scored."
+    },
+    {
+      "date": "2026-08-30",
+      "game_id": "gstfxmwv1zkcza31",
+      "inning": 2,
+      "halfInning": "top",
+      "batter": {
+        "name": "Denae Benites",
+        "short_name": "Denae Benites",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Niki Eckert",
+        "short_name": "Niki Eckert",
+        "uniform": "22",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1,
+        2,
+        3
+      ],
+      "RoB": "123",
+      "whereHit": "CF",
+      "runs": {
+        "away": 1,
+        "home": 1
+      },
+      "narrative": "Denae Benites homered to center field, 4 RBI (1-1 BS); Suzu Narasaki scored; Elodie Ciamarro scored; Claire Eccles scored."
+    },
+    {
+      "date": "2026-08-30",
+      "game_id": "gstfxmwv1zkcza31",
+      "inning": 7,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Andreanne Leblanc",
+        "short_name": "Andreanne Leblanc",
+        "uniform": "16",
+        "bats": "B",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Claire O'Sullivan",
+        "short_name": "Claire O'Sullivan",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2,
+        3
+      ],
+      "RoB": "123",
+      "whereHit": "CF",
+      "runs": {
+        "away": 9,
+        "home": 7
+      },
+      "narrative": "Andreanne Leblanc homered to center field, unearned, 4 RBI (3-2 BBKBK); Joely Leguizamon scored, unearned; Kelsie Whitmore scored, unearned; Samantha Gutierrez scored, unearned."
     }
   ],
   "leaders": [
     {
-      "name": "Kelsie Whitmore",
+      "name": "Denae Benites",
       "number": 9
     },
     {
-      "name": "Denae Benites",
-      "number": 8
+      "name": "Kelsie Whitmore",
+      "number": 9
     },
     {
       "name": "Jamie Mackay",

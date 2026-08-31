@@ -942,7 +942,7 @@
   },
   "01a0079d-1b3c-7017-8a0b-5ce834798cfe": {
     "id": 6364,
-    "game_id": "",
+    "game_id": "gstfxmwv1zkcza31",
     "uuid": "01a0079d-1b3c-7017-8a0b-5ce834798cfe",
     "title": "New York @ San Francisco",
     "season": "2026",
@@ -951,7 +951,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-san-francisco-aug-30-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -960,7 +960,8 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
-        }
+        },
+        "score": 9
       },
       "home": {
         "team": {
@@ -969,8 +970,13 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 11
       }
+    },
+    "decisions": {
+      "winner": "Liz Gilder",
+      "loser": "Claire O'Sullivan"
     }
   },
   "01a0079d-1b3c-7018-a2ae-ed3119c59b39": {

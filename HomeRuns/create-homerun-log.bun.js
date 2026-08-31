@@ -1,12 +1,14 @@
 import games from "../docs/wpbl2026-current.json";
 import { findTeam } from "../docs/js/wpbl2026-teams.js";
 import { getBoxscore } from "../utils.bun.js";
+import { join } from "node:path";
 
 
 await main();
 
 async function main() {
-  const outfile = '../docs/wpbl2026-homeruns.json';
+  const outfile = join(import.meta.dirname, `../docs/wpbl2026-homeruns.json`);
+
   const players = {};
   const homeruns = [];
   let updated;

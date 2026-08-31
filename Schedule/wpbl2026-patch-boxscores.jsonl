@@ -147,3 +147,9 @@
 {"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions","value":{}}
 {"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions/winner","value":"Ayuri Shimano"}
 {"effectiveDate":"2026-08-29","op":"add","path":"/01a0079d-1b3c-7016-aec2-33233519646d/decisions/loser","value":"London Studer"}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/status","value":"Final"}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/teams/away/score","value":9}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/teams/home/score","value":11}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/decisions","value":{}}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/decisions/winner","value":"Liz Gilder"}
+{"effectiveDate":"2026-08-30","op":"add","path":"/01a0079d-1b3c-7017-8a0b-5ce834798cfe/decisions/loser","value":"Claire O'Sullivan"}
