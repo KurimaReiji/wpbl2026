@@ -17,7 +17,7 @@ async function getBoxscore(game_id) {
     const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
     const res = await (await fetch(url)).json();
     if (res.boxscore.status.complete) {
-      const output = JSON.stringify(res);
+      const output = JSON.stringify(res, null, 2);
       Bun.write(boxfile, output);
     }
     result = res;

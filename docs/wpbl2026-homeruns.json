@@ -228,12 +228,12 @@
         1
       ],
       "RoB": "1--",
-      "whereHit": "LF",
+      "whereHit": "LC",
       "runs": {
         "away": 1,
         "home": 5
       },
-      "narrative": "Jamie Mackay homered to left field, 2 RBI (1-1 BK); Sarah Edwards scored."
+      "narrative": "Jamie Mackay homered to left center, 2 RBI (1-1 BK); Sarah Edwards scored."
     },
     {
       "date": "2026-08-07",
@@ -601,12 +601,12 @@
         2
       ],
       "RoB": "12-",
-      "whereHit": "RC",
+      "whereHit": "LC",
       "runs": {
         "away": 2,
         "home": 4
       },
-      "narrative": "Kelsie Whitmore homered to right center, 3 RBI (1-0 B); Jua Park scored; Jordan Eyster scored."
+      "narrative": "Kelsie Whitmore homered to left center, 3 RBI (1-0 B); Jua Park scored; Jordan Eyster scored."
     },
     {
       "date": "2026-08-12",
@@ -881,12 +881,12 @@
         1
       ],
       "RoB": "1--",
-      "whereHit": "RC",
+      "whereHit": "LC",
       "runs": {
         "away": 6,
         "home": 1
       },
-      "narrative": "Denae Benites homered to right center, 2 RBI (0-1 K); Jacqui Reynolds scored."
+      "narrative": "Denae Benites homered to left center, 2 RBI (0-1 K); Jacqui Reynolds scored."
     },
     {
       "date": "2026-08-15",
