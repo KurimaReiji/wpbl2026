@@ -1,5 +1,6 @@
 import { join } from "node:path";
 import games from "../docs/wpbl2026-current.json";
+import { getBoxscore } from "../utils.bun.js";
 
 const jsonlFilePath = `${import.meta.dirname}/wpbl2026-patch-boxscores.jsonl`;
 
@@ -64,7 +65,15 @@ async function main() {
         }
       });
 
-    [statusPatch, scorePatch, decisionsMap, decisionsPatch].flat().forEach((patch) => {
+    const linescore = createLinescore(teams);
+    const lsPatch = status.complete ? [{
+      effectiveDate,
+      "op": "add",
+      "path": `/${g.uuid}/linescore`,
+      "value": linescore,
+    }] : [];
+
+    [statusPatch, scorePatch, decisionsMap, decisionsPatch, lsPatch].flat().forEach((patch) => {
       const json = JSON.stringify(patch);
       console.info(json);
       writer.write(`${json}\n`);
@@ -75,22 +84,22 @@ async function main() {
   await writer.end();
 }
 
-async function getBoxscore(game_id) {
-  const boxfile = join(import.meta.dirname, `../Boxscores/${game_id}-boxscore.json`);
-  const file = Bun.file(boxfile);
+function createLinescore(teams) {
+  const [away, home] = teams;
+  const innings = away.line
+    .map(({ inning, runs }, i) => {
+      return {
+        num: inning,
+        away: { runs: runs },
+        home: { runs: home.line[i].runs },
+      }
+    });
+  const totals = {
+    away: { runs: away.totals.runs, hits: away.totals.hits, errors: away.totals.errors, leftOnBase: away.totals.left_on_base },
+    home: { runs: home.totals.runs, hits: home.totals.hits, errors: home.totals.errors, leftOnBase: home.totals.left_on_base },
+  };
 
-  try {
-    const json = await file.json();
-    return json;
-  } catch (error) {
-    console.warn(`fetching: ${game_id}`);
-    const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
-    const res = await (await fetch(url)).json();
-    if (res.boxscore.status.complete) {
-      const output = JSON.stringify(res);
-      Bun.write(boxfile, output);
-    }
-    return res;
+  return {
+    innings, teams: totals,
   }
-
 }

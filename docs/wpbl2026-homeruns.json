@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-09-02",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -2049,15 +2049,153 @@
         "home": 7
       },
       "narrative": "Andreanne Leblanc homered to center field, unearned, 4 RBI (3-2 BBKBK); Joely Leguizamon scored, unearned; Kelsie Whitmore scored, unearned; Samantha Gutierrez scored, unearned."
+    },
+    {
+      "date": "2026-09-02",
+      "game_id": "1tjc78472394e3o9",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Denver Bryant",
+        "short_name": "Denver Bryant",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 0,
+        "home": 0
+      },
+      "narrative": "Denver Bryant homered to center field, RBI (0-1 K)."
+    },
+    {
+      "date": "2026-09-02",
+      "game_id": "1tjc78472394e3o9",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Maïka Dumais",
+        "short_name": "Maïka Dumais",
+        "uniform": "18",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "LF",
+      "runs": {
+        "away": 5,
+        "home": 1
+      },
+      "narrative": "Kelsie Whitmore homered to left field, 3 RBI (3-1 BBFB); Amanda Gianelloni scored; Ayaka Yamamoto scored."
+    },
+    {
+      "date": "2026-09-02",
+      "game_id": "1tjc78472394e3o9",
+      "inning": 6,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Lexi Hastings",
+        "short_name": "Lexi Hastings",
+        "uniform": "14",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Peyton Coria",
+        "short_name": "Peyton Coria",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 8,
+        "home": 2
+      },
+      "narrative": "Lexi Hastings homered to center field, RBI (0-0)."
     }
   ],
   "leaders": [
     {
-      "name": "Denae Benites",
-      "number": 9
+      "name": "Kelsie Whitmore",
+      "number": 10
     },
     {
-      "name": "Kelsie Whitmore",
+      "name": "Denae Benites",
       "number": 9
     },
     {
@@ -2074,6 +2212,10 @@
     },
     {
       "name": "Ticara Geldenhuis",
+      "number": 2
+    },
+    {
+      "name": "Lexi Hastings",
       "number": 2
     }
   ]

@@ -1,0 +1,15 @@
+[
+  {
+    "op": "test",
+    "path": "/boxscore/teams/0/line/7/inning",
+    "value": 8
+  },
+  {
+    "op": "remove",
+    "path": "/boxscore/teams/0/line/7"
+  },
+  {
+    "op": "remove",
+    "path": "/boxscore/teams/1/line/7"
+  }
+]
