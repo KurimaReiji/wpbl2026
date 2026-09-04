@@ -3136,7 +3136,7 @@
   },
   "01a0079d-1b3c-7019-a8fb-cd2f9c564a7e": {
     "id": 6366,
-    "game_id": "",
+    "game_id": "uogjry1r7cxhpt96",
     "uuid": "01a0079d-1b3c-7019-a8fb-cd2f9c564a7e",
     "title": "New York @ Los Angeles",
     "season": "2026",
@@ -3145,7 +3145,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -3154,7 +3154,8 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
-        }
+        },
+        "score": 18
       },
       "home": {
         "team": {
@@ -3163,6 +3164,92 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
+        },
+        "score": 7
+      }
+    },
+    "decisions": {
+      "winner": "Claire Eccles",
+      "loser": "Jamie Mackay"
+    },
+    "linescore": {
+      "innings": [
+        {
+          "num": 1,
+          "away": {
+            "runs": 2
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 2,
+          "away": {
+            "runs": 6
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 3,
+          "away": {
+            "runs": 3
+          },
+          "home": {
+            "runs": 3
+          }
+        },
+        {
+          "num": 4,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 3
+          }
+        },
+        {
+          "num": 5,
+          "away": {
+            "runs": 3
+          },
+          "home": {
+            "runs": 1
+          }
+        },
+        {
+          "num": 6,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 7,
+          "away": {
+            "runs": 4
+          },
+          "home": {
+            "runs": 0
+          }
+        }
+      ],
+      "teams": {
+        "away": {
+          "runs": 18,
+          "hits": 18,
+          "errors": 0,
+          "leftOnBase": 9
+        },
+        "home": {
+          "runs": 7,
+          "hits": 9,
+          "errors": 6,
+          "leftOnBase": 8
         }
       }
     }
