@@ -3256,7 +3256,7 @@
   },
   "01a0079d-1b3c-701a-96ee-90229b7ca18c": {
     "id": 6367,
-    "game_id": "",
+    "game_id": "oozmyb0viot6et3k",
     "uuid": "01a0079d-1b3c-701a-96ee-90229b7ca18c",
     "title": "San Francisco @ New York",
     "season": "2026",
@@ -3265,7 +3265,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -3274,7 +3274,8 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 2
       },
       "home": {
         "team": {
@@ -3283,6 +3284,92 @@
           "abbreviation": "NY",
           "franchiseName": "New York",
           "teamName": "Heights"
+        },
+        "score": 14
+      }
+    },
+    "decisions": {
+      "winner": "Emi Saiki",
+      "loser": "Liz Gilder"
+    },
+    "linescore": {
+      "innings": [
+        {
+          "num": 1,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 2,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 5
+          }
+        },
+        {
+          "num": 3,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 2
+          }
+        },
+        {
+          "num": 4,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 5
+          }
+        },
+        {
+          "num": 5,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 2
+          }
+        },
+        {
+          "num": 6,
+          "away": {
+            "runs": 2
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 7,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        }
+      ],
+      "teams": {
+        "away": {
+          "runs": 2,
+          "hits": 4,
+          "errors": 5,
+          "leftOnBase": 9
+        },
+        "home": {
+          "runs": 14,
+          "hits": 13,
+          "errors": 3,
+          "leftOnBase": 8
         }
       }
     }

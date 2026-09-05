@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -2371,7 +2371,148 @@
         "away": 17,
         "home": 7
       },
-      "narrative": "Denae Benites homered to right field, unearned, RBI (2-2 KBBF)."
+      "narrative": "Denae Benites homered to right field, unearned, RBI (2-2 KBBKF)."
+    },
+    {
+      "date": "2026-09-04",
+      "game_id": "oozmyb0viot6et3k",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kylee Lahners",
+        "short_name": "Kylee Lahners",
+        "uniform": "22",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Liz Gilder",
+        "short_name": "Liz Gilder",
+        "uniform": "10",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "LF",
+      "runs": {
+        "away": 0,
+        "home": 5
+      },
+      "narrative": "Kylee Lahners homered to left field, 2 RBI (1-0 B); Val Perez scored."
+    },
+    {
+      "date": "2026-09-04",
+      "game_id": "oozmyb0viot6et3k",
+      "inning": 4,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Val Perez",
+        "short_name": "Val Perez",
+        "uniform": "27",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "pitcher": {
+        "name": "Ela Day-Bédard",
+        "short_name": "Ela Day-Bédard",
+        "uniform": "25",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "CF",
+      "runs": {
+        "away": 0,
+        "home": 9
+      },
+      "narrative": "Val Perez homered to center field, unearned, 2 RBI (1-0 B); Claire O'Sullivan scored, unearned."
+    },
+    {
+      "date": "2026-09-04",
+      "game_id": "oozmyb0viot6et3k",
+      "inning": 6,
+      "halfInning": "top",
+      "batter": {
+        "name": "Andreanne Leblanc",
+        "short_name": "Andreanne Leblanc",
+        "uniform": "16",
+        "bats": "B",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Emi Saiki",
+        "short_name": "Emi Saiki",
+        "uniform": "23",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "fttth861nft1j2s7",
+          "code": "WPBL003",
+          "abbreviation": "NY",
+          "name": "New York Heights",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [
+        1
+      ],
+      "RoB": "1--",
+      "whereHit": "RF",
+      "runs": {
+        "away": 0,
+        "home": 14
+      },
+      "narrative": "Andreanne Leblanc homered to right field, 2 RBI (2-2 BKSB); Skylar Kaplan scored."
     }
   ],
   "leaders": [
@@ -2405,6 +2546,14 @@
     },
     {
       "name": "Natsuki Yonetani",
+      "number": 2
+    },
+    {
+      "name": "Kylee Lahners",
+      "number": 2
+    },
+    {
+      "name": "Andreanne Leblanc",
       "number": 2
     }
   ]
