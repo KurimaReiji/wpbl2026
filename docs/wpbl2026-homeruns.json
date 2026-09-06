@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -2460,12 +2460,12 @@
         1
       ],
       "RoB": "1--",
-      "whereHit": "CF",
+      "whereHit": "LC",
       "runs": {
         "away": 0,
         "home": 9
       },
-      "narrative": "Val Perez homered to center field, unearned, 2 RBI (1-0 B); Claire O'Sullivan scored, unearned."
+      "narrative": "Val Perez homered to left center, unearned, 2 RBI (1-0 B); Claire O'Sullivan scored, unearned."
     },
     {
       "date": "2026-09-04",
@@ -2513,6 +2513,51 @@
         "home": 14
       },
       "narrative": "Andreanne Leblanc homered to right field, 2 RBI (2-2 BKSB); Skylar Kaplan scored."
+    },
+    {
+      "date": "2026-09-05",
+      "game_id": "67l4nvgbil9bkyrq",
+      "inning": 1,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Lexi Hastings",
+        "short_name": "Lexi Hastings",
+        "uniform": "14",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Ayami Sato",
+        "short_name": "Ayami Sato",
+        "uniform": "18",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "v4gisr4rbgmn67b0",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 0,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "RC",
+      "runs": {
+        "away": 8,
+        "home": 0
+      },
+      "narrative": "Lexi Hastings homered to right center, RBI (0-0)."
     }
   ],
   "leaders": [
@@ -2533,15 +2578,15 @@
       "number": 4
     },
     {
+      "name": "Lexi Hastings",
+      "number": 3
+    },
+    {
       "name": "Alexia Jorge",
       "number": 2
     },
     {
       "name": "Ticara Geldenhuis",
-      "number": 2
-    },
-    {
-      "name": "Lexi Hastings",
       "number": 2
     },
     {

@@ -3376,7 +3376,7 @@
   },
   "01a0079d-1b3c-701b-85d7-1d7244761484": {
     "id": 6368,
-    "game_id": "",
+    "game_id": "67l4nvgbil9bkyrq",
     "uuid": "01a0079d-1b3c-701b-85d7-1d7244761484",
     "title": "Los Angeles @ Boston",
     "season": "2026",
@@ -3385,7 +3385,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/",
     "seriesDescription": "Regular Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -3394,7 +3394,8 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
-        }
+        },
+        "score": 10
       },
       "home": {
         "team": {
@@ -3403,6 +3404,101 @@
           "abbreviation": "BOS",
           "franchiseName": "Boston",
           "teamName": "Hunters"
+        },
+        "score": 6
+      }
+    },
+    "decisions": {
+      "winner": "Michelle Roche",
+      "loser": "Alli Schroder"
+    },
+    "linescore": {
+      "innings": [
+        {
+          "num": 1,
+          "away": {
+            "runs": 8
+          },
+          "home": {
+            "runs": 1
+          }
+        },
+        {
+          "num": 2,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 3,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 1
+          }
+        },
+        {
+          "num": 4,
+          "away": {
+            "runs": 1
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 5,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 4
+          }
+        },
+        {
+          "num": 6,
+          "away": {
+            "runs": 1
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 7,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 8,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        }
+      ],
+      "teams": {
+        "away": {
+          "runs": 10,
+          "hits": 12,
+          "errors": 1,
+          "leftOnBase": 7
+        },
+        "home": {
+          "runs": 6,
+          "hits": 5,
+          "errors": 4,
+          "leftOnBase": 5
         }
       }
     }
