@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "homeruns": [
     {
       "date": "2026-08-01",
@@ -2558,6 +2558,99 @@
         "home": 0
       },
       "narrative": "Lexi Hastings homered to right center, RBI (0-0)."
+    },
+    {
+      "date": "2026-09-06",
+      "game_id": "fzotkodqtxf9gphm",
+      "inning": 3,
+      "halfInning": "bottom",
+      "batter": {
+        "name": "Kelsie Whitmore",
+        "short_name": "Kelsie Whitmore",
+        "uniform": "3",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Olivia Bricker",
+        "short_name": "Olivia Bricker",
+        "uniform": "26",
+        "bats": "L",
+        "throws": "L",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "outs": 2,
+      "bases_occupied": [
+        1,
+        2
+      ],
+      "RoB": "12-",
+      "whereHit": "RC",
+      "runs": {
+        "away": 5,
+        "home": 0
+      },
+      "narrative": "Kelsie Whitmore homered to right center, 3 RBI (0-0); Ayaka Yamamoto scored; Ela Day-Bédard scored."
+    },
+    {
+      "date": "2026-09-06",
+      "game_id": "fzotkodqtxf9gphm",
+      "inning": 7,
+      "halfInning": "top",
+      "batter": {
+        "name": "Alli Schroder",
+        "short_name": "Alli Schroder",
+        "uniform": "16",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "9f08or2mffx81409",
+          "code": "WPBL001",
+          "abbreviation": "BOS",
+          "name": "Boston Hunters",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "pitcher": {
+        "name": "Peyton Coria",
+        "short_name": "Peyton Coria",
+        "uniform": "2",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "vhubhz8li07tmgq8",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "CF",
+      "runs": {
+        "away": 6,
+        "home": 13
+      },
+      "narrative": "Alli Schroder homered to center field, RBI (0-2 KFF)."
     }
   ],
   "leaders": [
@@ -2567,7 +2660,7 @@
     },
     {
       "name": "Kelsie Whitmore",
-      "number": 10
+      "number": 11
     },
     {
       "name": "Jamie Mackay",

@@ -207,3 +207,10 @@
 {"effectiveDate":"2026-09-05","op":"add","path":"/01a0079d-1b3c-701b-85d7-1d7244761484/decisions/winner","value":"Michelle Roche"}
 {"effectiveDate":"2026-09-05","op":"add","path":"/01a0079d-1b3c-701b-85d7-1d7244761484/decisions/loser","value":"Alli Schroder"}
 {"effectiveDate":"2026-09-05","op":"add","path":"/01a0079d-1b3c-701b-85d7-1d7244761484/linescore","value":{"innings":[{"num":1,"away":{"runs":8},"home":{"runs":1}},{"num":2,"away":{"runs":0},"home":{"runs":0}},{"num":3,"away":{"runs":0},"home":{"runs":1}},{"num":4,"away":{"runs":1},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":4}},{"num":6,"away":{"runs":1},"home":{"runs":0}},{"num":7,"away":{"runs":0},"home":{"runs":0}},{"num":8,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":10,"hits":12,"errors":1,"leftOnBase":7},"home":{"runs":6,"hits":5,"errors":4,"leftOnBase":5}}}}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/status","value":"Final"}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/teams/away/score","value":7}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/teams/home/score","value":13}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/decisions","value":{}}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/decisions/winner","value":"Niki Eckert"}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/decisions/loser","value":"Maïka Dumais"}
+{"effectiveDate":"2026-09-06","op":"add","path":"/01a0079d-1b3c-701c-9f92-48190d26fa98/linescore","value":{"innings":[{"num":1,"away":{"runs":1},"home":{"runs":0}},{"num":2,"away":{"runs":0},"home":{"runs":0}},{"num":3,"away":{"runs":4},"home":{"runs":3}},{"num":4,"away":{"runs":0},"home":{"runs":7}},{"num":5,"away":{"runs":0},"home":{"runs":2}},{"num":6,"away":{"runs":0},"home":{"runs":1}},{"num":7,"away":{"runs":2},"home":{"runs":0}}],"teams":{"away":{"runs":7,"hits":9,"errors":2,"leftOnBase":5},"home":{"runs":13,"hits":14,"errors":2,"leftOnBase":7}}}}
