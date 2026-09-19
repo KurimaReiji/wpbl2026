@@ -1,0 +1,51 @@
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/status","value":"Final"}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/teams/away/score","value":4}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/teams/home/score","value":6}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/decisions","value":{}}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/decisions/winner","value":"Kelsie Whitmore"}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/decisions/loser","value":"Kate Blunt"}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/decisions/save","value":"Liz Gilder"}
+{"effectiveDate":"2026-09-09","op":"add","path":"/01a0b969-5918-751f-b3fc-71d83f828314/linescore","value":{"innings":[{"num":1,"away":{"runs":0},"home":{"runs":0}},{"num":2,"away":{"runs":1},"home":{"runs":0}},{"num":3,"away":{"runs":0},"home":{"runs":2}},{"num":4,"away":{"runs":2},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":2}},{"num":6,"away":{"runs":0},"home":{"runs":2}},{"num":7,"away":{"runs":1},"home":{"runs":0}}],"teams":{"away":{"runs":4,"hits":7,"errors":1,"leftOnBase":9},"home":{"runs":6,"hits":9,"errors":0,"leftOnBase":8}}}}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/status","value":"Final"}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/teams/away/score","value":10}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/teams/home/score","value":3}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/decisions","value":{}}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/decisions/winner","value":"Michelle Roche"}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/decisions/loser","value":"Emi Saiki"}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/decisions/save","value":"Meggie Meidlinger"}
+{"effectiveDate":"2026-09-10","op":"add","path":"/01a0b969-5919-7620-8867-fa59e7d65c56/linescore","value":{"innings":[{"num":1,"away":{"runs":1},"home":{"runs":0}},{"num":2,"away":{"runs":0},"home":{"runs":0}},{"num":3,"away":{"runs":0},"home":{"runs":0}},{"num":4,"away":{"runs":2},"home":{"runs":0}},{"num":5,"away":{"runs":1},"home":{"runs":1}},{"num":6,"away":{"runs":2},"home":{"runs":0}},{"num":7,"away":{"runs":4},"home":{"runs":2}}],"teams":{"away":{"runs":10,"hits":11,"errors":2,"leftOnBase":9},"home":{"runs":3,"hits":8,"errors":1,"leftOnBase":9}}}}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/status","value":"Final"}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/teams/away/score","value":9}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/teams/home/score","value":6}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/decisions","value":{}}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/decisions/winner","value":"Niki Eckert"}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/decisions/loser","value":"Paloma Benach"}
+{"effectiveDate":"2026-09-11","op":"add","path":"/01a0b969-5919-7621-bfd5-a23b9752d0e3/linescore","value":{"innings":[{"num":1,"away":{"runs":1},"home":{"runs":0}},{"num":2,"away":{"runs":3},"home":{"runs":1}},{"num":3,"away":{"runs":2},"home":{"runs":3}},{"num":4,"away":{"runs":3},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":1}},{"num":6,"away":{"runs":0},"home":{"runs":1}},{"num":7,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":9,"hits":11,"errors":1,"leftOnBase":8},"home":{"runs":6,"hits":9,"errors":2,"leftOnBase":7}}}}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/status","value":"Final"}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/teams/away/score","value":9}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/teams/home/score","value":7}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/decisions","value":{}}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/decisions/winner","value":"Claire Eccles"}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/decisions/loser","value":"Meggie Meidlinger"}
+{"effectiveDate":"2026-09-12","op":"add","path":"/01a0b969-5919-7622-a48d-46978ba155dc/linescore","value":{"innings":[{"num":1,"away":{"runs":1},"home":{"runs":0}},{"num":2,"away":{"runs":0},"home":{"runs":1}},{"num":3,"away":{"runs":2},"home":{"runs":1}},{"num":4,"away":{"runs":4},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":3}},{"num":6,"away":{"runs":0},"home":{"runs":2}},{"num":7,"away":{"runs":2},"home":{"runs":0}}],"teams":{"away":{"runs":9,"hits":14,"errors":1,"leftOnBase":5},"home":{"runs":7,"hits":12,"errors":1,"leftOnBase":9}}}}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/status","value":"Final"}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/teams/away/score","value":15}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/teams/home/score","value":11}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/decisions","value":{}}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/decisions/winner","value":"Ayami Sato"}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/decisions/loser","value":"Claire Eccles"}
+{"effectiveDate":"2026-09-14","op":"add","path":"/01a0b969-5919-7623-bbf2-a8b3267ede4f/linescore","value":{"innings":[{"num":1,"away":{"runs":3},"home":{"runs":2}},{"num":2,"away":{"runs":0},"home":{"runs":0}},{"num":3,"away":{"runs":6},"home":{"runs":3}},{"num":4,"away":{"runs":0},"home":{"runs":1}},{"num":5,"away":{"runs":2},"home":{"runs":5}},{"num":6,"away":{"runs":0},"home":{"runs":0}},{"num":7,"away":{"runs":4},"home":{"runs":0}}],"teams":{"away":{"runs":15,"hits":15,"errors":1,"leftOnBase":10},"home":{"runs":11,"hits":13,"errors":0,"leftOnBase":8}}}}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/status","value":"Final"}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/teams/away/score","value":7}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/teams/home/score","value":6}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/decisions","value":{}}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/decisions/winner","value":"Jamie Mackay"}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/decisions/loser","value":"Rosi del Castillo"}
+{"effectiveDate":"2026-09-16","op":"add","path":"/01a0b969-5919-7624-9682-14040cf4c139/linescore","value":{"innings":[{"num":1,"away":{"runs":0},"home":{"runs":0}},{"num":2,"away":{"runs":1},"home":{"runs":4}},{"num":3,"away":{"runs":1},"home":{"runs":2}},{"num":4,"away":{"runs":1},"home":{"runs":0}},{"num":5,"away":{"runs":2},"home":{"runs":0}},{"num":6,"away":{"runs":2},"home":{"runs":0}},{"num":7,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":7,"hits":15,"errors":0,"leftOnBase":9},"home":{"runs":6,"hits":7,"errors":3,"leftOnBase":6}}}}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/status","value":"Final"}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/teams/away/score","value":11}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/teams/home/score","value":7}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/decisions","value":{}}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/decisions/winner","value":"Ayami Sato"}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/decisions/loser","value":"Jill Albayati"}
+{"effectiveDate":"2026-09-17","op":"add","path":"/01a0b969-5919-7625-8ff6-98b07f02ebc2/linescore","value":{"innings":[{"num":1,"away":{"runs":0},"home":{"runs":0}},{"num":2,"away":{"runs":1},"home":{"runs":2}},{"num":3,"away":{"runs":0},"home":{"runs":2}},{"num":4,"away":{"runs":10},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":2}},{"num":6,"away":{"runs":0},"home":{"runs":1}},{"num":7,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":11,"hits":11,"errors":1,"leftOnBase":10},"home":{"runs":7,"hits":13,"errors":6,"leftOnBase":9}}}}

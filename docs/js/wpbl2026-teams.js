@@ -36,6 +36,10 @@ const ops = `
 {"effectiveDate": "2026-07-31", "op": "replace", "path": "/WPBL002/manager", "value": "Eric Young Sr."}
 {"effectiveDate": "2026-07-31", "op": "replace", "path": "/WPBL003/manager", "value": "Rachelle \\"Rocky\\" Henley"}
 {"effectiveDate": "2026-07-31", "op": "replace", "path": "/WPBL004/manager", "value": "Matt Williams"}
+{"effectiveDate": "2026-09-08", "op": "replace", "path": "/WPBL001/team_id", "value": "rknw1oz8pl20apx4"}
+{"effectiveDate": "2026-09-08", "op": "replace", "path": "/WPBL002/team_id", "value": "e1u35z4hgkmddl84"}
+{"effectiveDate": "2026-09-08", "op": "replace", "path": "/WPBL003/team_id", "value": "07xl5m9s98ckxth4"}
+{"effectiveDate": "2026-09-08", "op": "replace", "path": "/WPBL004/team_id", "value": "r622khgeymi55fwo"}
 `;
 
 const updates = `

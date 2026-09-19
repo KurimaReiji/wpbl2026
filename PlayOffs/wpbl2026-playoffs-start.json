@@ -1,0 +1,332 @@
+{
+  "01a0b969-5918-751f-b3fc-71d83f828314": {
+    "id": 5753,
+    "game_id": "",
+    "uuid": "01a0b969-5918-751f-b3fc-71d83f828314",
+    "title": "Boston @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-09-09T23:00:00Z",
+    "officialDate": "2026-09-09",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7620-8867-fa59e7d65c56": {
+    "id": 7369,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7620-8867-fa59e7d65c56",
+    "title": "Los Angeles @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-09-10T23:00:00Z",
+    "officialDate": "2026-09-10",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7621-bfd5-a23b9752d0e3": {
+    "id": 7370,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7621-bfd5-a23b9752d0e3",
+    "title": "San Francisco @ Boston",
+    "season": "2026",
+    "scheduledDate": "2026-09-11T22:00:00Z",
+    "officialDate": "2026-09-11",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "9f08or2mffx81409",
+          "name": "Boston Hunters",
+          "abbreviation": "BOS",
+          "franchiseName": "Boston",
+          "teamName": "Hunters"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7622-a48d-46978ba155dc": {
+    "id": 7371,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7622-a48d-46978ba155dc",
+    "title": "New York @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-09-12T23:00:00Z",
+    "officialDate": "2026-09-12",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7623-bbf2-a8b3267ede4f": {
+    "id": 7373,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7623-bbf2-a8b3267ede4f",
+    "title": "Los Angeles @ New York",
+    "season": "2026",
+    "scheduledDate": "2026-09-14T23:00:00Z",
+    "officialDate": "2026-09-14",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "fttth861nft1j2s7",
+          "name": "New York Heights",
+          "abbreviation": "NY",
+          "franchiseName": "New York",
+          "teamName": "Heights"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7624-9682-14040cf4c139": {
+    "id": 7374,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7624-9682-14040cf4c139",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-09-16T23:00:00Z",
+    "officialDate": "2026-09-16",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7625-8ff6-98b07f02ebc2": {
+    "id": 7375,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7625-8ff6-98b07f02ebc2",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-09-17T23:00:00Z",
+    "officialDate": "2026-09-17",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7626-a0af-5b0733e539a4": {
+    "id": 7376,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7626-a0af-5b0733e539a4",
+    "title": "San Francisco @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-09-19T23:00:00Z",
+    "officialDate": "2026-09-19",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7627-9074-44c28d2d9bef": {
+    "id": 7377,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7627-9074-44c28d2d9bef",
+    "title": "San Francisco @ Los Angeles",
+    "season": "2026",
+    "scheduledDate": "2026-09-20T19:00:00Z",
+    "officialDate": "2026-09-20",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      }
+    }
+  },
+  "01a0b969-5919-7628-8601-8c2a49cdc0f2": {
+    "id": 7378,
+    "game_id": "",
+    "uuid": "01a0b969-5919-7628-8601-8c2a49cdc0f2",
+    "title": "Los Angeles @ San Francisco",
+    "season": "2026",
+    "scheduledDate": "2026-09-22T23:00:00Z",
+    "officialDate": "2026-09-22",
+    "venue": "Robin Roberts Stadium",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-5-if-needed/",
+    "seriesDescription": "Post Season",
+    "status": "Scheduled",
+    "teams": {
+      "away": {
+        "team": {
+          "id": "v4gisr4rbgmn67b0",
+          "name": "Los Angeles Queens",
+          "abbreviation": "LA",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "home": {
+        "team": {
+          "id": "vhubhz8li07tmgq8",
+          "name": "San Francisco Firebells",
+          "abbreviation": "SF",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      }
+    }
+  }
+}

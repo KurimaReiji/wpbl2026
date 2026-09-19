@@ -17,7 +17,7 @@ async function getBoxscore(game_id) {
     const url = `https://stats.womensprobaseballleague.com/v1/games/${game_id}/boxscore`;
     const res = await (await fetch(url)).json();
     if (res.boxscore.status.complete) {
-      const output = JSON.stringify(res, null, 2);
+      const output = JSON.stringify(res, null, 2).replace(/Emi Saki/g, "Emi Saiki").replace(/Catherine O'Sullivan/g, "Claire O'Sullivan");
       Bun.write(boxfile, output);
     }
     result = res;
