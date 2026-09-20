@@ -8,7 +8,6 @@ async function main() {
   const pitchers = [];
   //const datesList = [...Array.from({ length: 22 - 9 })].map((_, i) => `2026-09-${String(i + 9).padStart(2, "0")}`);
   const datesList = Array.from({ length: 23 - 9 }, (_, i) => `2026-09-${String(i + 9).padStart(2, "0")}`);
-  console.log(datesList);
   for (const g of Object.values(games)) {
     const { officialDate: date, game_id } = g;
     if (game_id === "") continue;

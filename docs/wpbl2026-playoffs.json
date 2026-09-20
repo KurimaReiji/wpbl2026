@@ -843,7 +843,7 @@
   },
   "01a0b969-5919-7626-a0af-5b0733e539a4": {
     "id": 7376,
-    "game_id": "",
+    "game_id": "dv41r0nfyyt0vbse",
     "uuid": "01a0b969-5919-7626-a0af-5b0733e539a4",
     "title": "San Francisco @ Los Angeles",
     "season": "2026",
@@ -852,7 +852,7 @@
     "venue": "Robin Roberts Stadium",
     "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/",
     "seriesDescription": "Post Season",
-    "status": "Scheduled",
+    "status": "Final",
     "teams": {
       "away": {
         "team": {
@@ -861,7 +861,8 @@
           "abbreviation": "SF",
           "franchiseName": "San Francisco",
           "teamName": "Firebells"
-        }
+        },
+        "score": 10
       },
       "home": {
         "team": {
@@ -870,6 +871,92 @@
           "abbreviation": "LA",
           "franchiseName": "Los Angeles",
           "teamName": "Queens"
+        },
+        "score": 5
+      }
+    },
+    "decisions": {
+      "winner": "Niki Eckert",
+      "loser": "Michelle Roche"
+    },
+    "linescore": {
+      "innings": [
+        {
+          "num": 1,
+          "away": {
+            "runs": 3
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 2,
+          "away": {
+            "runs": 4
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 3,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 2
+          }
+        },
+        {
+          "num": 4,
+          "away": {
+            "runs": 2
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 5,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 3
+          }
+        },
+        {
+          "num": 6,
+          "away": {
+            "runs": 1
+          },
+          "home": {
+            "runs": 0
+          }
+        },
+        {
+          "num": 7,
+          "away": {
+            "runs": 0
+          },
+          "home": {
+            "runs": 0
+          }
+        }
+      ],
+      "teams": {
+        "away": {
+          "runs": 10,
+          "hits": 17,
+          "errors": 2,
+          "leftOnBase": 11
+        },
+        "home": {
+          "runs": 5,
+          "hits": 10,
+          "errors": 0,
+          "leftOnBase": 11
         }
       }
     }
