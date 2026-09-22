@@ -56,3 +56,10 @@
 {"effectiveDate":"2026-09-19","op":"add","path":"/01a0b969-5919-7626-a0af-5b0733e539a4/decisions/winner","value":"Niki Eckert"}
 {"effectiveDate":"2026-09-19","op":"add","path":"/01a0b969-5919-7626-a0af-5b0733e539a4/decisions/loser","value":"Michelle Roche"}
 {"effectiveDate":"2026-09-19","op":"add","path":"/01a0b969-5919-7626-a0af-5b0733e539a4/linescore","value":{"innings":[{"num":1,"away":{"runs":3},"home":{"runs":0}},{"num":2,"away":{"runs":4},"home":{"runs":0}},{"num":3,"away":{"runs":0},"home":{"runs":2}},{"num":4,"away":{"runs":2},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":3}},{"num":6,"away":{"runs":1},"home":{"runs":0}},{"num":7,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":10,"hits":17,"errors":2,"leftOnBase":11},"home":{"runs":5,"hits":10,"errors":0,"leftOnBase":11}}}}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/status","value":"Final"}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/teams/away/score","value":17}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/teams/home/score","value":4}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/decisions","value":{}}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/decisions/winner","value":"Ela Day-Bedard"}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/decisions/loser","value":"Jamie Mackay"}
+{"effectiveDate":"2026-09-20","op":"add","path":"/01a0b969-5919-7627-9074-44c28d2d9bef/linescore","value":{"innings":[{"num":1,"away":{"runs":2},"home":{"runs":0}},{"num":2,"away":{"runs":0},"home":{"runs":3}},{"num":3,"away":{"runs":3},"home":{"runs":1}},{"num":4,"away":{"runs":8},"home":{"runs":0}},{"num":5,"away":{"runs":0},"home":{"runs":0}},{"num":6,"away":{"runs":4},"home":{"runs":0}},{"num":7,"away":{"runs":0},"home":{"runs":0}}],"teams":{"away":{"runs":17,"hits":20,"errors":2,"leftOnBase":11},"home":{"runs":4,"hits":8,"errors":2,"leftOnBase":7}}}}

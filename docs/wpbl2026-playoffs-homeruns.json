@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "homeruns": [
     {
       "date": "2026-09-10",
@@ -744,7 +744,7 @@
         "away": 3,
         "home": 0
       },
-      "narrative": "Joely Leguizamon homered to left field, RBI (0-1 K)."
+      "narrative": "Joely Leguizamon homered down the lf line, RBI (0-1 K)."
     },
     {
       "date": "2026-09-19",
@@ -791,7 +791,52 @@
         "away": 7,
         "home": 0
       },
-      "narrative": "Jamie Mackay homered to left field, RBI (0-0); Ayuri Shimano scored."
+      "narrative": "Jamie Mackay homered to left field, 2 RBI (0-0); Ayuri Shimano scored."
+    },
+    {
+      "date": "2026-09-20",
+      "game_id": "zfzsdiknnotmbfgo",
+      "inning": 3,
+      "halfInning": "top",
+      "batter": {
+        "name": "Andreanne Leblanc",
+        "short_name": "Andreanne Leblanc",
+        "uniform": "16",
+        "bats": "R",
+        "throws": "R",
+        "team": {
+          "team_id": "r622khgeymi55fwo",
+          "code": "WPBL004",
+          "abbreviation": "SF",
+          "name": "San Francisco Firebells",
+          "franchiseName": "San Francisco",
+          "teamName": "Firebells"
+        }
+      },
+      "pitcher": {
+        "name": "Ayuri Shimano",
+        "short_name": "Ayuri Shimano",
+        "uniform": "19",
+        "bats": "L",
+        "throws": "R",
+        "team": {
+          "team_id": "e1u35z4hgkmddl84",
+          "code": "WPBL002",
+          "abbreviation": "LA",
+          "name": "Los Angeles Queens",
+          "franchiseName": "Los Angeles",
+          "teamName": "Queens"
+        }
+      },
+      "outs": 1,
+      "bases_occupied": [],
+      "RoB": "---",
+      "whereHit": "RF",
+      "runs": {
+        "away": 2,
+        "home": 3
+      },
+      "narrative": "Andreanne Leblanc homered to right field, RBI (1-0 B)."
     }
   ],
   "leaders": [
